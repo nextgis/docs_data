@@ -1,8 +1,8 @@
-.. sectionauthor:: Dmitry Baryshnikov <dmitry.baryshnikov@nextgis.com>
+.. sectionauthor:: Dmitry Baryshnikov <dmitry.baryshnikov@nextgis.ru>
 
 .. NextGIS Data TOC
 
-NextGIS Data documentation
+Документация по NextGIS Data
 ===============================
 
 Contents:
