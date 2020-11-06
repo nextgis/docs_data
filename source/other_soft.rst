@@ -25,10 +25,10 @@
 
 #. Данные добавлены на карту
 
-..     figure:: _static/google_mymaps3.png
-       :name: google_mymaps3
-       :align: center
-       :width: 16cm
+.. figure:: _static/google_mymaps3.png
+   :name: google_mymaps3
+   :align: center
+   :width: 16cm
 
 .. _data_other_soft_yandex_const:
 
