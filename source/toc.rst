@@ -5,7 +5,7 @@
 Документация по NextGIS Data
 ===============================
 
-Contents:
+Содержание:
     
 .. toctree::
    :maxdepth: 2
