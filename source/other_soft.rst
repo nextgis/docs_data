@@ -14,14 +14,14 @@
 #. Импортируйте полученный файл KML на карту в сервисе Google My Maps.
 
 .. figure:: _static/google_mymaps1.png
-       :name: google_mymaps1
-       :align: center
-       :width: 16cm
+   :name: google_mymaps1
+   :align: center
+   :width: 16cm
 
 .. figure:: _static/google_mymaps2.png
-       :name: google_mymaps2
-       :align: center
-       :width: 16cm
+   :name: google_mymaps2
+   :align: center
+   :width: 16cm
 
 Данные добавлены на карту
 
