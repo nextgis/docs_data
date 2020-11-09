@@ -7,23 +7,23 @@
 * Дождитесь получения результата, скачайте, распакуйте архив с данными.
 * В Power BI Desktop выберите “Главная” > “Получить данные” > “Текстовый или CSV-файл”, нажмите “Подключить”. 
 
-.. figure:: _static/power bi1.png
-   :name: power bi1
+.. figure:: _static/power_bi1.png
+   :name: power_bi1
    :align: center
    :width: 16cm
 
 * В открывшемся окне укажите путь к интересующему CSV-файлу.
 * Далее в окне предварительного просмотра проверьте корректность отображения символов и табуляции. Если символы не распознаются Вашим устройством верно, убедитесь, что в поле “Источник файла” выбрана кодировка UTF-8. 
 
-.. figure:: _static/power bi2.png
-   :name: power bi2
+.. figure:: _static/power_bi2.png
+   :name: power_bi2
    :align: center
    :width: 16cm
 
 * После нажатия кнопки “Загрузить” данные готовы для анализа.
 
-.. figure:: _static/power bi3.png
-   :name: power bi3
+.. figure:: _static/power_bi3.png
+   :name: power_bi3
    :align: center
    :width: 16cm
 
