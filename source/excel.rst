@@ -24,7 +24,7 @@
    :align: center
    :width: 16cm
    
-*Данные добавлены в таблицу Excel
+* Данные добавлены в таблицу Excel
 
 .. figure:: _static/excel4.png
    :name: excel4
