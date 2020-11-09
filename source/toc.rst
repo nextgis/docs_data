@@ -1,4 +1,4 @@
-.. sectionauthor:: Dmitry Baryshnikov <dmitry.baryshnikov@nextgis.ru>
+.. sectionauthor:: Ekaterina Petrunenko <ekaterina.petrunenko@nextgis.com>
 
 .. NextGIS Data TOC
 
