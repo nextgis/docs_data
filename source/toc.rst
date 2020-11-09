@@ -10,5 +10,6 @@
 .. toctree::
    :maxdepth: 2
    
+   Проверка
    other_soft
 
