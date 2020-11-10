@@ -14,5 +14,6 @@
    power_bi
    qlik
    r
+   highcharts
 
 
