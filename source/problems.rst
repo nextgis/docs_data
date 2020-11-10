@@ -6,4 +6,4 @@
 .. toctree::
    :maxdepth: 2
 
-   wrong_encoding
+   broken_encoding
