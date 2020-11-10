@@ -8,7 +8,8 @@
 * Выберите нужный слой.
 * Чтобы подключить данные с NextGIS Data в Highcharts Maps, нужно его захостить и указать в подключении:
 
-Highcharts.getJSON('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/germany.geo.json', function (geojson)
+.. code-block:: js
+   Highcharts.getJSON('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/germany.geo.json', function (geojson)
 
 * В документации Highcharts Maps есть много `примеров использования даных <https://www.highcharts.com/demo/maps/geojson>`_, и можно посмотреть их исходный код. 
 
