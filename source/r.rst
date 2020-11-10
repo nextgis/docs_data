@@ -10,7 +10,9 @@
 
 Если вы работаете в Windows, то для импорта данных в R с корректными названиями атрибутов вместо:
 
-Districts <- readOGR(dsn ='KO/data/boundary-polygon-lvl6.shp')
+.. code-block:: javascript
+
+   Districts <- readOGR(dsn ='KO/data/boundary-polygon-lvl6.shp')
 
 используйте
 
