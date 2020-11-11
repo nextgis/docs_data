@@ -10,7 +10,7 @@
 .. toctree::
    :maxdepth: 2
    
-   other_soft
    common
+   other_soft
    transform
    problems
