@@ -1,6 +1,6 @@
 .. _data_broken_encoding:
 
-What if text in attribute table is garbled…
+If text in attribute table is garbled…
 ===========================
 
 .. figure:: _static/broken_encoding1.png
