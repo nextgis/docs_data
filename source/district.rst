@@ -28,4 +28,4 @@ How to get municipalities’ boundaries for target region
 
 .. note::
 
-   Types and levels of administrative boundaries differ from country to country. Thus file “boundary-polygon-land-lvl6.geojson” can refer to various levels of administrative division, depending on particular country. To find out about your area of interest please check `here < https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative >`_.
+   Types and levels of administrative boundaries differ from country to country. Thus file “boundary-polygon-land-lvl6.geojson” can refer to various levels of administrative division, depending on particular country. To find out about your area of interest please check `here <https://wiki.openstreetmap.org/wiki/Tag:boundary%3Dadministrative>`_.
