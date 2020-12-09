@@ -8,11 +8,11 @@
 * Конвертируйте желаемый слой или слои в формат DXF. Для конвертации можно воспользоваться любым онлайн конвертером, например, `GeoConverter <https://geoconverter.hsr.ch/vector>`_.    
 
 
-You can |location_link|.
+например, |location_link|.
 
 .. |location_link| raw:: html
 
-   <a href="http://geoiptool.com" target="_blank">check your location here</a>
+   <a href="https://geoconverter.hsr.ch/vector" target="_blank">GeoConverter</a>
    
    
 * Запустите AutoCAD, нажмите «Открыть файлы» и выберите слой в формате DXF.
