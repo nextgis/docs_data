@@ -7,8 +7,13 @@
 * Дождитесь получения результата, скачайте, распакуйте архив с данными.
 * Конвертируйте желаемый слой или слои в формат DXF. Для конвертации можно воспользоваться любым онлайн конвертером, например, `GeoConverter <https://geoconverter.hsr.ch/vector>`_.    
 
-.. raw:: html
+
+You can |location_link|.
+
+.. |location_link| raw:: html
+
    <a href="http://geoiptool.com" target="_blank">check your location here</a>
+   
    
 * Запустите AutoCAD, нажмите «Открыть файлы» и выберите слой в формате DXF.
 
