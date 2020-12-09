@@ -14,7 +14,7 @@
 
 * В документации Highcharts Maps есть много `примеров использования даных <https://www.highcharts.com/demo/maps/geojson>`_, и можно посмотреть их исходный код. 
 
-Пример использования данных NextGIS Data представлен ниже, также доступен `"живой" пример <https://jsfiddle.net/rendrom/nhv4mu5z/>`_.
+Пример использования данных NextGIS Data представлен ниже, также доступен `«живой» пример <https://jsfiddle.net/rendrom/nhv4mu5z/>`_.
 
 .. figure:: _static/highcharts.png
    :name: highcharts
