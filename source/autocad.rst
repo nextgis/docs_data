@@ -10,6 +10,7 @@
 .. |location_link| raw:: html
 
    <a href="https://geoconverter.hsr.ch/vector" target="_blank">GeoConverter</a>     
+   
 * Запустите AutoCAD, нажмите «Открыть файлы» и выберите слой в формате DXF.
 
 .. figure:: _static/autocad1.png
