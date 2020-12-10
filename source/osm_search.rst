@@ -3,7 +3,11 @@
 Как на OpenStreetMap найти нужный мне объект
 ===========================
 
-* Для начала Вам необходимо попасть на сайт OpenStreetMap. Для этого в адресной строке браузера введите osm.org или перейдите по этой `ссылке <https://www.openstreetmap.org>`_.
+* Для начала Вам необходимо попасть на сайт OpenStreetMap. Для этого в адресной строке браузера введите osm.org или перейдите по этой |location_link|.
+
+.. |location_link| raw:: html
+
+   <a href="https://www.openstreetmap.org" target="_blank">ссылке</a>
 
 .. figure:: _static/osm_search1.png
    :name: osm_search1
