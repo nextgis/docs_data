@@ -12,12 +12,11 @@
 
    Highcharts.getJSON('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/germany.geo.json', function (geojson)
 
-* В документации Highcharts Maps есть много |location_link|
+* В документации Highcharts Maps есть много |location_link|, и можно посмотреть их исходный код.
 
 .. |location_link| raw:: html
 
    <a href="https://www.highcharts.com/demo/maps/geojson" target="_blank">примеров использования данных</a>
-   , и можно посмотреть их исходный код. 
 
 Пример использования данных NextGIS Data представлен ниже, также доступен |location_link|.
 
