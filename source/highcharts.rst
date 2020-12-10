@@ -18,9 +18,9 @@
 
    <a href="https://www.highcharts.com/demo/maps/geojson" target="_blank">примеров использования данных</a>
 
-Пример использования данных NextGIS Data представлен ниже, также доступен |location_link|.
+Пример использования данных NextGIS Data представлен ниже, также доступен |location_link1|.
 
-.. |location_link| raw:: html
+.. |location_link1| raw:: html
 
    <a href="https://jsfiddle.net/rendrom/nhv4mu5z/" target="_blank">«живой» пример</a>
 
