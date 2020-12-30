@@ -14,5 +14,6 @@
    r
    highcharts
    pg
+   zulu
 
 
