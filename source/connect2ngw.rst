@@ -32,32 +32,31 @@
 .. figure:: _static/connect_panel.png
    :name: connect_panel
    :align: center
-   :width: 16cm
+   :width: 10cm
 
 * Настройте подключение к вашей веб ГИС:
 
-1. Нажмите на кнопку настроек |settings_icon_connect|
-.. |settings_icon_connect| image:: _static/settings_icon_connect.png
+1. Нажмите на кнопку настроек |settings_icon_connect|.   .. |settings_icon_connect| image:: _static/settings_icon_connect.png
 
 2. В открывшейся панели Соединений создайте новое подключение (укажите URL вашей веб ГИС и при необходимости логин/пароль пользователя веб ГИС). 
 
 .. figure:: _static/create_connection.png
    :name: create_connection
    :align: center
-   :width: 16cm
+   :width: 10cm
 
-3. Нажмите *Ok/, откроется диалог с настроенным соединением. Закройте его. В панели модуля появятся все ресурсы вашей веб ГИС.
+3. Нажмите *Ok*, откроется диалог с настроенным соединением. Закройте его. В панели модуля появятся все ресурсы вашей веб ГИС.
 
 
-.. figure:: _static/create_connection.png
-   :name: create_connection
+.. figure:: _static/connection_ngqgis.png
+   :name: connection_ngqgis
    :align: center
-   :width: 16cm
+   :width: 10cm
     
 .. figure:: _static/resources_on_panel.png
    :name: resources_on_panel
    :align: center
-   :width: 16cm
+   :width: 10cm
 
 4. Выберите *группу ресурсов*, в которую вы хотите поместить ваш проект, нажмите на кнопку *Добавить в веб ГИС* в панели модуля и *импортируйте* текущий проект.
 В течение некоторого времени откроется веб-карта с настроенным проектом/
@@ -65,7 +64,7 @@
 .. figure:: _static/import_project.png
    :name: import_project
    :align: center
-   :width: 16cm
+   :width: 10cm
 
 .. figure:: _static/webmap_proj.png
    :name:  webmap_proj
