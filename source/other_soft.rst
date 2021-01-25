@@ -15,5 +15,5 @@
    highcharts
    pg
    zulu
-
+   tableau
 
