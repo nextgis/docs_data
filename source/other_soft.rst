@@ -4,6 +4,7 @@
 .. toctree::
    :maxdepth: 2
 
+   connect2ngw
    google_mymaps
    yandex_const
    autocad
