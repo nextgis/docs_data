@@ -26,7 +26,7 @@ How to open the particular layer
 
    <a href="https://docs.google.com/spreadsheets/d/1F83dtRH8c7O83E55ox3Kfh8Ibbh2TFL70nF5Iw_33d0/edit#gid=906616778" target="_blank">here</a>
    
-   .. figure:: _static/open_layer3.png
+.. figure:: _static/open_layer3.png
    :name: open_map3
    :align: center
    :width: 16cm
