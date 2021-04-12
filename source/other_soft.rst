@@ -5,5 +5,7 @@ Our data in other software
    :maxdepth: 2
 
    connect2ngw
+   google_mymaps
    autocad
+   map3d
    r
