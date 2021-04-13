@@ -1,5 +1,5 @@
-Data converting
-===========================
+Data conversion
+===============
     
 .. toctree::
    :maxdepth: 2
