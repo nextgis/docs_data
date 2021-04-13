@@ -1,7 +1,7 @@
 .. _data_district:
 
-How to get municipalities’ boundaries for target region
-===========================
+How to get municipal boundaries for a target region
+===================================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in GeoJSON format.
 * Wait for email with download link, download and unpack archive with data.
