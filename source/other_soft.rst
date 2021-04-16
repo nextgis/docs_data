@@ -9,3 +9,4 @@ Our data in other software
    autocad
    map3d
    r
+   excel
