@@ -10,3 +10,5 @@ Our data in other software
    map3d
    r
    excel
+   power_bi
+   power_bi_map
