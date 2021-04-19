@@ -13,7 +13,7 @@ How to load vector layer into Microsoft Power BI
    :align: center
    :width: 16cm
    
-* From Visualizations panel select Shape map icon. Template with map appears in the left corner of the main workspace. 
+* From "Visualizations" panel select Shape map icon. Template with map appears in the left corner of the main workspace. 
 
 .. figure:: _static/power_bi_map2.png
    :name: power_bi_map2
