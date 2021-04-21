@@ -13,7 +13,7 @@
 
    psql -f boundary-polygon.sql -h host -U user database
 
-где, boundary-polygon.sql - выбранный слой, host - адрес сервера с базой (или localhost), user - имя пользователя, database - название базы данных.
+где boundary-polygon.sql - выбранный слой, host - адрес сервера с базой (или localhost), user - имя пользователя, database - название базы данных.
 
 .. warning::
 
