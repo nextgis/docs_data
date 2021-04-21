@@ -12,3 +12,5 @@ Our data in other software
    excel
    power_bi
    power_bi_map
+   highcharts
+   pg
