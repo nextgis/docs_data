@@ -19,7 +19,7 @@
    :align: center
    :width: 16cm
    
-* В панели **Data** слева среди таблиц найдите **Geometry** и перетащите это поле в рабочую область.
+* В панели **Data** слева найдите поле **Geometry** и перетащите его в рабочую область.
 
 .. figure:: _static/tableau3.png
    :name: tableau3
