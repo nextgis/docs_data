@@ -13,7 +13,7 @@ How to convert file to another GIS format
    :align: center
    :width: 16cm
 
-* In the pop-up window set the format, the name and the path to the new file. Press “OK”.
+* In the pop-up window set a format, a name and a path to a new file. Press “OK”.
 
 .. figure:: _static/type_change2.png
    :name: type_change2
