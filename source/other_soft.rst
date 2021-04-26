@@ -16,3 +16,4 @@ Our data in other software
    pg
    tableau
    blender
+   qlik
