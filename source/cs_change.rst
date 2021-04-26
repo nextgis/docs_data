@@ -5,7 +5,7 @@ How to change coordinate reference system of the data
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoJSON format.
 * Wait for email with download link, download and unpack archive with data.
-* Import  target layer, which coordinate reference system you want to change, into one of GIS (as an example, below is described usage of `NextGIS QGIS <https://nextgis.com/nextgis-qgis/>`_). 
+* Import target layer, which coordinate reference system you want to change, into one of the GIS (as an example, below is described usage of `NextGIS QGIS <https://nextgis.com/nextgis-qgis/>`_). 
 * Right-click on a target layer in Layers Panel, select option “Save as…”. Thus you’ll create a copy of the layer, but in desired coordinate reference system.
 
 .. figure:: _static/cs_change1.png
