@@ -1,6 +1,6 @@
 .. _data_power_bi:
 
-How to upload text data into Power BI
+How to upload text data into Microsoft Power BI
 ===================================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in CSV format.
