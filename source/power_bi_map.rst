@@ -55,7 +55,7 @@ How to load vector layer into Microsoft Power BI
    :align: center
    :width: 16cm
    
-* Table transforms, in the header of the column again press on the icon with forked arrow and select attributes you want to visualize. Press "OK". 
+* Table is transformed, in the header of the column again press on the icon with forked arrow and select attributes you want to visualize. Press "OK". 
 
 .. figure:: _static/power_bi_map8.png
    :name: power_bi_map8
