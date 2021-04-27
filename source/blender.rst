@@ -18,7 +18,7 @@ How to upload data to Blender
    :align: center
    :width: 16cm
 
-* Your map is uploaded. Atributive information of selected object is shown in the right panel.
+* Your map is uploaded. Attributive information of selected object is shown in the right panel.
 
 .. figure:: _static/blender2.png
    :name: blender2
