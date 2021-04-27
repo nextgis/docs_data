@@ -48,7 +48,7 @@ How to load data into Qlik Sense
    :align: center
    :width: 16cm
    
-* In the "Data" > "Dimensions" tab, from the drop-down list, select the field containing information about the coordinates of the objects of the loaded layer.
+* In the "Data" > "Dimensions" tab, from the drop-down list, select the field of the loaded layer, which contains information about the coordinates of the objects.
 
 .. figure:: _static/qlik7.png
    :name: qlik7
