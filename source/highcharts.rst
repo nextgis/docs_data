@@ -25,4 +25,4 @@ How to upload data to Highcharts Maps (highcharts.js)
    Highcharts Maps library handles well fast visualization of spatial data statistics. However such libraries as Mapbox GL JS, Openlayers and Leaflet are better for interactive mapping. Examples of data upload from json files to forementioned libraries can be found here: https://jsfiddle.net/rendrom/a1xf63bk/ and https://jsfiddle.net/rendrom/yg6xz9kj/. In these examples `NextGIS Frontend <https://github.com/nextgis/nextgis_frontend>`_ libraries are used.
 
 .. hint::
-   For faster and better performing of data rendering in the web, additional generalization, thinning and modification of initial data can be useful. The resulting file would be smaller in size, has less nodes in polygones and lines and wouldn't contain unnecessary attributes.
+   For faster and better performing of data rendering in the web, additional generalization, thinning and modification of initial data can be useful. The resulting file would be smaller in size, has less nodes in polygons and lines and wouldn't contain unnecessary attributes.
