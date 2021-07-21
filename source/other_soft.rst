@@ -13,6 +13,7 @@
    power_bi
    qlik
    r
+   geopandas
    highcharts
    pg
    zulu
