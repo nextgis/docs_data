@@ -27,7 +27,7 @@ Calculate areas:
 .. code-block:: python
 
    boundaries["AREA"] = boundaries.to_crs("EPSG:32637").area / 10 ** 6
-   boundaries[["NAME", "AREA"]]
+   boundaries[["NAME_EN", "AREA"]].dropna()
    
 .. figure:: _static/geopandas_table.png
    :name: geopandas_table
