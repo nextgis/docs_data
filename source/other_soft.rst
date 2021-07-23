@@ -9,6 +9,7 @@ Our data in other software
    autocad
    map3d
    r
+   geopandas
    excel
    power_bi
    power_bi_map
