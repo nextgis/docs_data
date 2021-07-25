@@ -1,7 +1,7 @@
 .. _data_broken_encoding:
 
-If text in attribute table is garbled…
-===========================
+If text in attribute table is garbled
+=====================================
 
 .. figure:: _static/broken_encoding1.png
    :name: broken_encoding1
