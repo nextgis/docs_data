@@ -15,6 +15,7 @@
    r
    geopandas
    highcharts
+   leaflet
    pg
    zulu
    tableau
