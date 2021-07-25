@@ -1,20 +1,20 @@
 .. _data_highcharts:
 
-How to upload data to Highcharts Maps (highcharts.js)
-===========================
+How to vizualize data with Highcharts Maps (highcharts.js)
+==========================================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in GeoJSON format.
 * Wait for email with download link, download and unpack archive with data.
 * Select target layer.
-* To upload layer to Highcharts Maps first you need to host it (store in a place, accessible through hyperlink) and specify for connection:
+* To upload layer to Highcharts Maps first you need to host it (put it in a place, accessible via hyperlink) and specify for connection:
 
 .. code-block:: javascript
 
    Highcharts.getJSON('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/germany.geo.json', function (geojson)
 
-* There are a lot of `examples of gata usage <https://www.highcharts.com/demo/maps/geojson>`_ in Highcharts Maps documentation, so its source code is available.
+* There are a lot of `examples of data usage <https://www.highcharts.com/demo/maps/geojson>`_ in Highcharts Maps documentation, source code is also available.
 
-* The example of NextGIS Data usage is presented below, also `live example <https://jsfiddle.net/rendrom/nhv4mu5z/>`_ is available.
+* The example of NextGIS Data usage is presented below, see `live example <https://jsfiddle.net/rendrom/nhv4mu5z/>`_ as well.
 
 .. figure:: _static/highcharts.png
    :name: highcharts
