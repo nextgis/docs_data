@@ -1,7 +1,7 @@
-.. _data_highcharts:
+.. _data_leaflet:
 
-Как подключить данные в Highcharts Maps (highcharts.js)
-===========================
+Как подключить данные в Leaflet
+===============================
 
 * `Закажите данные <https://data.nextgis.com/ru/>`_ на интересующую Вас территорию в формате GeoJSON.
 * Дождитесь получения результата, скачайте, распакуйте архив с данными.
@@ -12,7 +12,7 @@
 
 .. code-block:: javascript
 
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
   <head>
@@ -60,7 +60,6 @@
 
     </script>
   </body>
-
 </html>
 
 Результат:
