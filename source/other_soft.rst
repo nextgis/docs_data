@@ -18,6 +18,7 @@
    leaflet
    pg
    zulu
+   panorama_mini
    tableau
    blender
    microsoft_power_bi
