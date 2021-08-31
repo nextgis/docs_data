@@ -5,3 +5,4 @@ Solving technical problems
    :maxdepth: 2
 
    broken_encoding
+   calc_area
