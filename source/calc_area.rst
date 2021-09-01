@@ -1,6 +1,6 @@
 .. _data_calc_area:
 
-Area or distance differs from the real value, need help!
+When area or distance differs from the real value
 =====================================
 
 To receive the most accurate values for distances or areas it is recommended to perform ellipsoid-based calculation (it helps to avoid distortion which appears while using any projected data).
