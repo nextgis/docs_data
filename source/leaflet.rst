@@ -1,7 +1,7 @@
-.. _data_highcharts:
+.. _data_leaflet:
 
-How to use data in Leaflet
-==========================
+How to use data in Leaflet (leaflet.js)
+=======================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in GeoJSON format.
 * Wait for email with download link, download and unpack archive with data.
