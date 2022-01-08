@@ -8,14 +8,14 @@ How to load data in R
 * Find out a name and a path to the target layer.
 * Install and load the rgdal package for R.
 
-If you are on Windows and attributes are garbled instead of:
-
-.. code-block:: r
-
-   Districts <- readOGR(dsn ='KO/data/boundary-polygon-lvl6.shp')
-
-use
+If you are using Windows for correct attributes use this:
 
 .. code-block:: r
 
    Districts <- readOGR(dsn ='KO/data/boundary-polygon-lvl6.shp', use_iconv = TRUE, encoding = "UTF-8")
+
+for other operating systems this should be enough:
+
+.. code-block:: r
+
+   Districts <- readOGR(dsn ='KO/data/boundary-polygon-lvl6.shp')
