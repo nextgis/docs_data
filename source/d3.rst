@@ -65,9 +65,10 @@ Simple Leaflet map showing a municipal boundaries layer:
   </body>
  </html>
  
- An extended example can be found `here <https://codepen.io/rendrom/pen/wvrbNMK>`_
+
+An extended example can be found `here <https://codepen.io/rendrom/pen/wvrbNMK>`_
  
- The result:
+The result:
 
 .. figure:: _static/d3.png
    :name: leaflet
