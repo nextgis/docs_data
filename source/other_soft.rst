@@ -15,6 +15,7 @@ Our data in other software
    power_bi_map
    highcharts
    leaflet
+   d3
    pg
    tableau
    blender
