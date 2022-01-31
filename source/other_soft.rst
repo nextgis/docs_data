@@ -16,6 +16,7 @@
    geopandas
    highcharts
    leaflet
+   d3
    pg
    zulu
    panorama_mini
