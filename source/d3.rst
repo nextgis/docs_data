@@ -13,11 +13,12 @@
 .. code-block:: html
 
   <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Show Data layer on the D3</title>
+  <html>
+  
+    <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <title>Show Data layer on the D3</title>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.3.0/d3.min.js"></script>
     <style>
@@ -62,7 +63,7 @@
       d3.json(url).then(update);
     </script>
   </body>
-</html>
+ </html>
 
 Расширенный пример можно посмотреть `здесь <https://codepen.io/rendrom/pen/wvrbNMK>`_.
 
