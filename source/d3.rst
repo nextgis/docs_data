@@ -1,0 +1,74 @@
+.. _data_d3:
+
+Как подключить данные в D3 (d3.js)
+==================================
+
+* `Закажите данные <https://data.nextgis.com/ru/>`_ на интересующую Вас территорию в формате GeoJSON.
+* Дождитесь получения результата, скачайте, распакуйте архив с данными.
+* Выберите нужный слой, например Границы муниципальных районов (boundary-polygon-lvl6.geojson)
+* Чтобы подключить слой в D3, нужно его захостить (положить туда, где он будут доступен по гиперссылке).
+
+Код описывающий простую карту, включающую слой муниципальных районов, выглядит следующим образом:
+
+.. code-block:: html
+
+  <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Show Data layer on the D3</title>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.3.0/d3.min.js"></script>
+    <style>
+      #content .map path {
+        fill: #aaa;
+        stroke: #fff;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="content">
+      <svg width="620px" height="600px">
+        <g class="map"></g>
+      </svg>
+    </div>
+    <script>
+      const url =
+        "https://raw.githubusercontent.com/rendrom/rendrom.github.io/master/static/boundary-polygon-lvl6.geojson";
+
+      // scale -	Scale factor of the projection
+      // center	- Projection center [longitude, latitude]
+      // translate - Pixel [x,y] location of the projection center
+      const projection = d3
+        .geoMercator()
+        .scale(10000)
+        .translate([200, 280])
+        .center([39.5, 44.3]);
+
+      const geoGenerator = d3.geoPath().projection(projection);
+
+      function update(geojson) {
+        const u = d3
+          .select("#content g.map")
+          .selectAll("path")
+          .data(geojson.features);
+
+        u.enter().append("path").attr("d", geoGenerator);
+      }
+
+      // REQUEST DATA
+      d3.json(url).then(update);
+    </script>
+  </body>
+</html>
+
+Расширенный пример можно посмотреть `здесь <https://codepen.io/rendrom/pen/wvrbNMK>`_.
+
+Результат:
+
+.. figure:: _static/d3.png
+   :name: leaflet
+   :align: center
+   :width: 16cm
