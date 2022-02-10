@@ -5,6 +5,7 @@
    :maxdepth: 2
 
    connect2ngw
+   elevation_qgis
    google_mymaps
    yandex_const
    autocad
