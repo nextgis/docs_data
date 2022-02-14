@@ -5,6 +5,7 @@ Our data in other software
    :maxdepth: 2
 
    connect2ngw
+   elevation_qgis
    google_mymaps
    autocad
    map3d
