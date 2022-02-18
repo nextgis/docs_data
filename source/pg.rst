@@ -15,6 +15,15 @@ Use psql to import data into database.
 
 where boundary-polygon.sql - target layer, host - address of the server with database (or localhost), user - user name, database - name of the database.
 
+.. note::
+
+   If the command results in an encoding problem message, run the following commands before re-running
+
+.. code-block:: bash
+
+   SET PGCLIENTENCODING=utf-8
+   chcp 65001
+
 .. warning::
 
    Do not use pgAdmin.
