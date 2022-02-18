@@ -20,7 +20,7 @@ where boundary-polygon.sql - target layer, host - address of the server with dat
 
 .. note::
 
-   If the command results in an encoding problem message, run the following commands before re-running
+   For Windows OS if the command results in an encoding problem message, run the following commands before re-running
 
 .. code-block:: bash
 
