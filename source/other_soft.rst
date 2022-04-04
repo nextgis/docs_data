@@ -6,6 +6,7 @@
 
    connect2ngw
    elevation_qgis
+   3d_dem_qgis
    google_mymaps
    yandex_const
    autocad
