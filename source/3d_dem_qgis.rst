@@ -1,6 +1,6 @@
-.. _data_elev_to_qgis:
+.. _data_dem_3D_to_qgis:
 
- Как загрузить данные рельефа в 3D окно QGIS
+Как загрузить данные рельефа в 3D окно QGIS
 =============================================
  
  `Закажите данные <https://data.nextgis.com/ru/>`_ рельефа на интересующую Вас территорию в формате ESRI Shape (QGIS) и GeoTIFF с указанием шага изолиний.
@@ -31,7 +31,7 @@
    
 * Нажмите OK. В окне появится модель данных рельефа в 3D.
 
-.. figure:: _static/3d_dem_results.png
+.. figure:: _static/3d_dem_result.png
    :name: 3d_dem_result
    :align: center
    :width: 16cm
