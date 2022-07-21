@@ -3,7 +3,7 @@
 How to open elevation data in QGIS
 ====================================
 
-* `Order elevation data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in ESRI Shape (QGSIS) and GeoTIFF format choosing the step of contour lines.
+* `Order elevation data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in ESRI Shape (QGIS) and GeoTIFF format choosing the step of contour lines.
 * Wait for email with download link, download and unpack archive with data.
 * Download and install `QGIS <https://qgis.org/en/site/forusers/download.html/>`_.
 * Launch QGIS.
