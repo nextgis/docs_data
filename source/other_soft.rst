@@ -19,6 +19,7 @@ Our data in other software
    leaflet
    d3
    pg
+   upload_tables_postgis
    tableau
    blender
    qlik
