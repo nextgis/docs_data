@@ -20,6 +20,7 @@
    leaflet
    d3
    pg
+   upload_tables_postgis
    zulu
    panorama_mini
    tableau
