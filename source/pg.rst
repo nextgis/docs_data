@@ -14,7 +14,7 @@
 
 .. code-block:: bash
 
-   psql -f boundary-polygon.sql -h host -U user database
+   psql -f boundary-polygon.sql -h host -U user -d database
 
 где boundary-polygon.sql - выбранный слой, host - адрес сервера с базой (или localhost), user - имя пользователя, database - название базы данных.
 
