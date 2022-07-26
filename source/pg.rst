@@ -14,7 +14,7 @@ Use psql to import data into database.
 
 .. code-block:: bash
 
-   psql -f boundary-polygon.sql -h host -U user database
+   psql -f boundary-polygon.sql -h host -U user -d database
 
 where boundary-polygon.sql - target layer, host - address of the server with database (or localhost), user - user name, database - name of the database.
 
