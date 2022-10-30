@@ -7,7 +7,7 @@ How to load multiple tables of different regions in PostgreSQL/PostGIS
 	To run, you need an installed PostgreSQL database with the `PostGIS <https://postgis.net/install/>`_.
 
 * `Order data <https://data.nextgis.com/en/>`_ for multiple regions in SQL (PostgreSQL/PostGIS) format.
-* Wait for email with download link, download and unpack archive with data.
+* Wait for an email with the download link. Download and unpack the data.
 * Open the first dataset. Load target layer as stated `here <https://data.nextgis.com/en/howto/pg/>`_ without changing the structure.
 
 For example:

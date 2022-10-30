@@ -3,8 +3,8 @@
 How to load data in GeoPandas
 =============================
 
-* `Order data <https://data.nextgis.com/en/>`_ for your area of interest in ESRI Shape format.
-* Wait for email with download link, download and unpack archive with data.
+* `Order data <https://data.nextgis.com/en/>`_ for your area of interest in Shape (QGIS) format.
+* Wait for an email with the download link. Download and unpack the data.
 * Find out a name and a path to the target layer. For example: municipal boundaries (boundary-polygon-lvl6)
 * Install and import geopandas in Python.
 

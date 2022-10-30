@@ -4,7 +4,7 @@ How to load layer into Tableau
 ===========================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in ESRI Shape (QGIS) format.
-* Wait for email with download link, download and unpack archive with data.
+* Wait for an email with the download link. Download and unpack the data.
 * Launch Tableau, select "Connect" > "Spatial file" and choose the target layer in pop-up window.
 
 .. figure:: _static/tableau1.png

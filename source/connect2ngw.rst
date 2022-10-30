@@ -1,10 +1,10 @@
 .. _data_connect2ngw:
 
-How to upload data to NextGIS Web (via NextGIS Connect)
-===========================
+How to upload data to NextGIS Web with via NextGIS Connect
+==========================================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in ESRI Shape format (QGIS).
-* Wait for email with download link, download and unpack archive with data.
+* Wait for an email with the download link. Download and unpack the data.
 * Download and install `QGIS <https://qgis.org/en/site/forusers/download.html>`_ or `NextGIS QGIS <https://nextgis.com/nextgis-qgis/>`_.
 * Launch QGIS. To open a preset GIS project (which includes all layers with customized styles), click "Project" > "Open" and in pop-up window select the saved file "data.qgs".
 
@@ -13,14 +13,14 @@ How to upload data to NextGIS Web (via NextGIS Connect)
    :align: center
    :width: 16cm
 
-* The project will be added to NextGIS QGIS.
+* The project will be added to QGIS.
 
 .. figure:: _static/open_map2.png
    :name: open_map2
    :align: center
    :width: 16cm
    
-* To transfer GIS project from NextGIS QGIS to NextGIS Web special plugin is needed. In Menu Toolbar select "Plugins" > "Manage and Install Plugins". In pop-up window type "NextGIS Connect" into Search field. Check the box next to the plugin to activate it.
+* To transfer GIS project from QGIS to NextGIS Web special plugin is needed. In Menu Toolbar select "Plugins" > "Manage and Install Plugins". In pop-up window type "NextGIS Connect" into Search field. Check the box next to the plugin to activate it.
 
 .. figure:: _static/connect2ngw1.png
    :name: connect2ngw1

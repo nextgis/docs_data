@@ -3,8 +3,8 @@
 How to get coordinates of a target object
 ===========================
 
-* `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoJSON format.
-* Wait for email with download link, download and unpack archive with data.
+* `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoJSON (QGIS) format.
+* Wait for an email with the download link. Download and unpack the data.
 * Add a layer with target object to `QGIS <https://qgis.org/en/site/forusers/download.html>`_ or `NextGIS QGIS <https://nextgis.com/nextgis-qgis/>`_. 
 * Find target object on the map (or through attribute table) and select it. Selected point object is highlighted with yellow on the map and with blue – in attribute table. If you selected an object through the map, use “Move selection to top” button to locate it in attribute table.
 

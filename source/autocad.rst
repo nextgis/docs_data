@@ -4,7 +4,7 @@ How to import data into AutoCAD
 ===========================
 
 #. `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoJSON format.
-#. Wait for email with download link, download and unpack archive with data.
+#. Wait for an email with the download link. Download and unpack the data.
 #. Convert target layer or layers into DXF format. For conversion any online converter can be used, e.g. `GeoConverter <https://geoconverter.hsr.ch/vector>`_.
 #. Launch AutoCAD, press “Open files” and choose layer in DXF format.
 

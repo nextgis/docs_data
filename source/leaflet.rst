@@ -4,8 +4,8 @@ How to use data in Leaflet (leaflet.js)
 =======================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in GeoJSON format.
-* Wait for email with download link, download and unpack archive with data.
-* Select target layer, for example municipal boundaries (boundary-polygon-lvl6.geojson)
+* Wait for an email with the download link. Download and unpack the data.
+* Select a target layer, for example municipal boundaries (boundary-polygon-lvl6.geojson)
 * To use layer in Leaflet first you need to host it (store in a place, accessible via hyperlink).
 
 Simple Leaflet map showing a municipal boundaries layer and lables:

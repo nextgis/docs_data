@@ -4,8 +4,8 @@ How to change data encoding
 ===========================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoJSON format.
-* Wait for email with download link, download and unpack archive with data.
-* Import target layer, which encoding you want to change, into one of the GIS (as an example, below is the case for `NextGIS QGIS <https://nextgis.com/nextgis-qgis/>`_). 
+* Wait for an email with the download link. Download and unpack the data.
+* Import target layer, which encoding you want to change, in `QGIS <https://qgis.org/en/site/forusers/download.html>`_. 
 * Right-click on a target layer in Layers Panel, select option “Save as…”. Thus you’ll create a copy of the layer, but in desired encoding.
 
 .. figure:: _static/encoding_change1.png

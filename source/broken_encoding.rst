@@ -15,7 +15,7 @@ If text in attribute table is garbled
    :align: center
    :width: 16cm
 
-* It can be also helpful to check, does encoding of “problematic” layer correspond to initial encoding. Possible initial encodings are listed `here <https://data.nextgis.com/en/about/#formats>`_ and depend on format of your ordered data. Encoding of the layer is shown in its “Properties” menu.
+* It can be also helpful to check, if encoding of problematic layer correspond to the initial encoding. Possible initial encodings are listed `here <https://data.nextgis.com/en/about/#formats>`_ and depend on format of your ordered data. Encoding of the layer is shown in its “Properties” menu.
 
 .. figure:: _static/broken_encoding3.png
    :name: broken_encoding3
