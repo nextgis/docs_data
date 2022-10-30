@@ -5,7 +5,7 @@ How to get municipal boundaries for a target region
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in GeoJSON format.
 * Wait for email with download link, download and unpack archive with data.
-* Launch GIS (below is described usage of `NextGIS QGIS <https://nextgis.com/nextgis-qgis/>`_) and in a main menu select “Layer” > “Add Layer” > “Add Vector Layer…”. In pop-up window from downloaded folder “data” select file “boundary-polygon-land-lvl6.geojson” (in our example it corresponds to municipalities in Iceland).
+* Launch `QGIS <https://qgis.org>`_) and in the main menu select “Layer” > “Add Layer” > “Add Vector Layer…”. In a pop-up window from downloaded folder “data” select file “boundary-polygon-land-lvl6.geojson” (in our example it corresponds to municipalities in Iceland).
 
 .. figure:: _static/district1.png
    :name: district1
