@@ -1,7 +1,7 @@
 .. _data_open_layer:
 
-How to open the particular layer
-===========================
+How to open a particular layer
+==============================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in ESRI Shape format (QGIS).
 * Wait for email with download link, download and unpack archive with data.
