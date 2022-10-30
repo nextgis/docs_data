@@ -1,12 +1,12 @@
 .. _data_open_map:
 
 How to open the entire map (project)
-===========================
+====================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in ESRI Shape format (QGIS).
 * Wait for email with download link, download and unpack archive with data.
-* Download and install `QGIS <https://qgis.org>`_.
-* Launch NextGIS QGIS. To open a preset GIS project (which includes all layers with customized styles), click "Project" > "Open" and in pop-up window select the saved file "data.qgs".
+* Download and install `QGIS <https://qgis.org/en/site/forusers/download.html>`_ or `NextGIS QGIS <https://nextgis.com/nextgis-qgis/>`_.
+* Launch QGIS. To open a preset GIS project (which includes all layers with customized styles), click "Project" > "Open" and in pop-up window select the saved file "data.qgs".
 
 .. figure:: _static/open_map1.png
    :name: open_map1

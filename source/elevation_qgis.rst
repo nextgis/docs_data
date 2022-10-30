@@ -5,7 +5,7 @@ How to open elevation data in QGIS
 
 * `Order elevation data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in ESRI Shape (QGIS) and GeoTIFF format choosing the step of contour lines.
 * Wait for email with download link, download and unpack archive with data.
-* Download and install `QGIS <https://qgis.org/en/site/forusers/download.html/>`_.
+* Download and install `QGIS <https://qgis.org/en/site/forusers/download.html>`_ or `NextGIS QGIS <https://nextgis.com/nextgis-qgis/>`_.
 * Launch QGIS.
 * Drag and drop **hillshade.tif**, **dem.tif** and **contour_lines.shp** from the unpacked data folder to QGIS interface.
 

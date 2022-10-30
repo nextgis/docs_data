@@ -5,7 +5,7 @@ How to select all of my city’s hospitals on the map
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoJSON format.
 * Wait for email with download link, download and unpack archive with data.
-* Open a preset GIS project in `QGIS <https://qgis.org>`_.
+* Open a preset GIS project in `QGIS <https://qgis.org/en/site/forusers/download.html>`_ or `NextGIS QGIS <https://nextgis.com/nextgis-qgis/>`_.
 * Hospitals are a part of the "Buildings" layer. In the attribute table of this layer, the "Building" field contains information about the purpose of the building. Almost all possible types of buildings are shown in this |location_link|. From here we learn that hospitals are referred to as "hospital". 
 
 .. |location_link| raw:: html

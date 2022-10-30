@@ -4,7 +4,7 @@ When area or distance differs from the real value
 =====================================
 
 To receive the most accurate values for distances or areas it is recommended to perform ellipsoid-based calculation (it helps to avoid distortion which appears while using any projected data).
-`NextGIS QGIS <https://nextgis.com/nextgis-qgis/>`_ settings offer easy way to perform correct calculations regardless of data’s initial coordinate system.
+QGIS settings offer an easy way to perform correct calculations regardless of data initial coordinate system.
 
 * In Menu Toolbar select “Project” > “Project Properties…” and in pop-up window move to the “CRS” tab.
 * Check the box next to “‘Enable ‘on the fly’ CRS transformation (OTF)”, click on “Apply” button.

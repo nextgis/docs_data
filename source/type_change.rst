@@ -5,7 +5,7 @@ How to convert file to another GIS format
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoJSON format.
 * Wait for email with download link, download and unpack archive with data.
-* Import target layer, which GIS format you want to change, into one of the GIS (as an example, below is described usage of `NextGIS QGIS <https://nextgis.com/nextgis-qgis/>`_). 
+* Import target layer, which GIS format you want to change, into one of the GIS (as an example, below is the case for `NextGIS QGIS <https://nextgis.com/nextgis-qgis/>`_). 
 * Right-click on a target layer in Layers Panel, select option “Save as…”. Thus you’ll create a copy of the layer, but in desired GIS format.
 
 .. figure:: _static/type_change1.png
