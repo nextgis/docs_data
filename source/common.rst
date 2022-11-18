@@ -8,5 +8,6 @@
    open_layer
    osm_search
    coord
+   coord_center
    district
    hospital
