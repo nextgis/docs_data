@@ -27,7 +27,7 @@
    :align: center
    :width: 16cm
    
- .. figure:: _static/new_layer_attr.png
+.. figure:: _static/new_layer_attr.png
    :name: coord1
    :align: center
    :width: 16cm
