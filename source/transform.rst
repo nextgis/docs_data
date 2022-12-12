@@ -7,3 +7,4 @@
    cs_change
    type_change
    encoding_change
+   mult_to_polygon
