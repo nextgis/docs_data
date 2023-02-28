@@ -9,23 +9,20 @@ How to open elevation data in QGIS
 * Launch QGIS.
 * Drag and drop **hillshade.tif**, **dem.tif** and **contour_lines.shp** from the unpacked data folder to QGIS interface.
 
-.. figure:: _static/elev_files_qgis.png
+.. figure:: _static/elev_files_qgis_en.png
    :name: elev_files_qgis
    :align: center
-   :width: 16cm
+   :width: 18cm
 
-* Arrange the layers in the list in the most convenient way to work from top to bottom: Contours, DEM, hillshade.
-* Set the layer properties **dem** transparency to 50%
+* Arrange the layers in the list in the most convenient way to work from top to bottom: 
 
-.. figure:: _static/elev_transp_qgis.png
-   :name: elev_transp_qgis
-   :align: center
-   :width: 16cm
+#. Contours
+#. Hillshade
+#. DEM
 
-
-.. figure:: _static/elev_qgis_project.png
+.. figure:: _static/elev_qgis_project_en.png
    :name: elev_qgis_project
    :align: center
-   :width: 16cm
+   :width: 18cm
 
 Detailed video **How to open elevation data in QGIS** - can be viewed `here <https://youtu.be/pwfJy5o5BmU/>`_
