@@ -14,7 +14,7 @@
    :align: center
    :width: 18cm
    
-   Добавление данных в проект
+
 
 * Расположите слои в списке сверху вниз: 
 
@@ -23,11 +23,11 @@
 #. Цифровая модель рельефа
 
 
-.. figure:: _static/elev_qgis_project_ru.png
+.. figure:: _static/elev_qgis_project_ru2.png
    :name: elev_qgis_project
    :align: center
    :width: 18cm
    
-   Проект с данными рельефа
+
 
 Подробное видео **Как открыть данные рельефа в QGIS** - можно посмотреть `здесь <https://youtu.be/pwfJy5o5BmU/>`_.
