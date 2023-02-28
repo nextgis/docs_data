@@ -9,23 +9,25 @@
 * Запустите QGIS.
 * Перетащите из папки с распакованными данными файлы **hillshade.tif** (светотеневая отмывка), **dem.tif** (цифровая модель рельефа) и **contour_lines.shp** (изолинии рельефа) в интерфейс QGIS.
 
-.. figure:: _static/elev_files_qgis.png
+.. figure:: _static/elev_files_qgis_ru.png
    :name: elev_files_qgis
    :align: center
-   :width: 16cm
+   :width: 18cm
+   
+   Добавление данных в проект
 
-* Расположите слои в списке наиболее удобным для работы образом сверху вниз: Изолинии, ЦМР, отмывка.
-* Установите в свойствах слоя **dem** прозрачность на 50%
+* Расположите слои в списке сверху вниз: 
 
-.. figure:: _static/elev_transp_qgis.png
-   :name: elev_transp_qgis
-   :align: center
-   :width: 16cm
+#. Изолинии
+#. Светотеневая отмывка
+#. Цифровая модель рельефа
 
 
-.. figure:: _static/elev_qgis_project.png
+.. figure:: _static/elev_qgis_project_ru.png
    :name: elev_qgis_project
    :align: center
-   :width: 16cm
+   :width: 18cm
+   
+   Проект с данными рельефа
 
 Подробное видео **Как открыть данные рельефа в QGIS** - можно посмотреть `здесь <https://youtu.be/pwfJy5o5BmU/>`_.
