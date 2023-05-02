@@ -26,3 +26,4 @@
    tableau
    blender
    microsoft_power_bi
+   mapinfo
