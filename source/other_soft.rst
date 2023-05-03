@@ -23,3 +23,4 @@ Our data in other software
    tableau
    blender
    qlik
+   mapinfo
