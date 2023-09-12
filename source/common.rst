@@ -11,4 +11,4 @@
    coord_center
    district
    hospital
-   distance
+
