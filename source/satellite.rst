@@ -2,7 +2,7 @@
 
 .. _data_satellite_qgis:
 
-Как открыть данные космосъемки в QGIS
+Как открыть данные космической съемки в QGIS
 =====================================
 
 * `Закажите спутниковые данные <https://data.nextgis.com/ru/>`_ на интересующую территорию в формате GeoTIFF.
@@ -14,7 +14,7 @@
 .. figure:: _static/add_satellite_qgis_drag_ru.png
    :name: add_satellite_qgis_drag_pic
    :align: center
-   :width: 18cm
+   :width: 20cm
 
    Перетаскивание файла спутниковых данных в QGIS
 
