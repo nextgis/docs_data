@@ -8,4 +8,12 @@
 * Launch QGIS.
 * Drag and drop the upacked tif file from the folder to QGIS interface.
 
+
+.. figure:: _static/add_satellite_qgis_drag_en.png
+   :name: add_satellite_qgis_drag_pic
+   :align: center
+   :width: 20cm
+
+   Adding satellite data to QGIS
+
 If you need to finetune the new layer, you can add it via menu: ``Layer ‣ Add Layer ‣ Add Raster Layer``.
