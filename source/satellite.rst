@@ -2,6 +2,10 @@
 
 .. _data_satellite_qgis:
 
+How to open satellite data in QGIS
+===================================
+
+
 * `Order satellite data <https://data.nextgis.com/en/>`_ for your area of interest in GeoTIFF format.
 * Wait for an email with the download link. Download and unpack the data.
 * Download and install `QGIS <https://qgis.org/en/site/forusers/download.html>`_ or `NextGIS QGIS <https://nextgis.com/nextgis-qgis/>`_.
