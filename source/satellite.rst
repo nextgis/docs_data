@@ -7,7 +7,7 @@
 
 * `Закажите спутниковые данные <https://data.nextgis.com/ru/>`_ на интересующую территорию в формате GeoTIFF.
 * Дождитесь получения результата, скачайте, распакуйте архив с данными.
-* Скачайте и установите `QGIS <https://qgis.org/en/site/forusers/download.html/>`_.
+* Скачайте и установите `QGIS <https://qgis.org/en/site/forusers/download.html/>`_ или `NextGIS QGIS <https://nextgis.ru/nextgis-qgis/>`_.
 * Запустите QGIS.
 * Перетащите из папки с распакованными данными файл с расширением tif в окно проекта.
 
