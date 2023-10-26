@@ -7,6 +7,7 @@
    connect2ngw
    elevation_qgis
    3d_dem_qgis
+   satellite
    google_mymaps
    yandex_const
    autocad
