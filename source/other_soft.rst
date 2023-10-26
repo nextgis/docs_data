@@ -7,6 +7,7 @@ Our data in other software
    connect2ngw
    elevation_qgis
    3d_dem_qgis
+   satellite
    google_mymaps
    autocad
    map3d
