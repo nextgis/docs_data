@@ -10,6 +10,7 @@
    satellite
    google_mymaps
    yandex_const
+   yandex_datalens
    autocad
    map3d
    excel
