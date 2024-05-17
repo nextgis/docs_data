@@ -11,4 +11,6 @@
    coord_center
    district
    hospital
+   print
+
 
