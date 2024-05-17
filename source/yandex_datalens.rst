@@ -30,7 +30,10 @@
 
 Когда файл загрузится, в правом верхнем углу нажмите **Создать подключение**.
 
-.. figure:: _static/DL_create_connection.png
+.. note::
+	Убедитесь, что включена опция "Заголовок столбцов".
+
+.. figure:: _static/DL_create_connection_ru.png
    :name: DL_create_connection_pic
    :align: center
    :width: 20cm
@@ -51,7 +54,7 @@
 
 В правом верхнем углу нажмите **Создать датасет**.
 
-.. figure:: _static/DL_create_dataset.png
+.. figure:: _static/DL_create_dataset_ru.png
    :name: DL_create_dataset_pic
    :align: center
    :width: 20cm
@@ -63,7 +66,7 @@
 
 Перейдите во вкладку "Поля". Укажите для первого поля тип *Геополигон* (выбирается в выпадающем меню).
 
-.. figure:: _static/DL_field_settings.png
+.. figure:: _static/DL_field_settings_ru.png
    :name: DL_field_settings_pic
    :align: center
    :width: 20cm
@@ -77,7 +80,7 @@
 
 После сохранения датасета в правом верхнем углу станет активной кнопка **Создать чарт**. нажмите на неё, чтобы перейти на страницу создания чарта (см. :numref:`DL_chart_pic`).
 
-.. figure:: _static/DL_chart.png
+.. figure:: _static/DL_chart_ru.png
    :name: DL_chart_pic
    :align: center
    :width: 20cm
@@ -95,3 +98,9 @@
 
 Нажмите кнопку **Сохранить** в правом верхнем углу. Задайте название чарта (по умолчанию предлагается "Название датасета - карта") и сохраните.
 
+.. figure:: _static/DL_result_ru.png
+   :name: DL_result_pic
+   :align: center
+   :width: 20cm
+
+   Итоговая карта
