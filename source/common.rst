@@ -10,3 +10,4 @@ General issues
    coord
    district
    hospital
+   print
