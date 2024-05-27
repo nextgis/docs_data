@@ -12,19 +12,19 @@
 .. figure:: _static/file_data_qgs.png
    :name: file_data_qgs
    :align: center
-   :width: 16cm
+   :width: 20cm
 
 .. figure:: _static/qgis_map.png
    :name: qgis_map
    :align: center
-   :width: 16cm
+   :width: 20cm
    
 * Установите модуль **NextGIS Connect** (Меню - Модули -Управление модулями - Ввести в поиске *NextGIS Connect* - Установить)
 
 .. figure:: _static/search_ngconnect.png
    :name: search_ngconnect
    :align: center
-   :width: 16cm
+   :width: 20cm
 
 * Появится панель модуля NextGIS Connect. Также панель можно открыть при помощи кнопки |connect_icon| на панели инструментов. 
 .. |connect_icon| image:: _static/connect_icon.png
@@ -69,4 +69,4 @@
 .. figure:: _static/webmap_proj.png
    :name:  webmap_proj
    :align: center
-   :width: 16cm
+   :width: 20cm
