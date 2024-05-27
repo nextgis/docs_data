@@ -29,4 +29,4 @@
 .. figure:: _static/excel4.png
    :name: excel4
    :align: center
-   :width: 16cm
+   :width: 24cm
