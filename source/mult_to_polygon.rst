@@ -11,7 +11,7 @@
 .. figure:: _static/split_geom_tool.png
    :name: split_geom_tool
    :align: center
-   :width: 16cm
+   :width: 20cm
 
 * Выберите из списка нужный слой.
 * Во втором поле выберите пункт *Сохранить в файл* и укажите локальный путь для сохранения.
@@ -19,6 +19,6 @@
 .. figure:: _static/sett_split_tool.png
    :name: sett_split_tool
    :align: center
-   :width: 16cm
+   :width: 18cm
 
 * Нажмите *Выполнить*
