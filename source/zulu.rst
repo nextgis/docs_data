@@ -10,11 +10,11 @@
 .. figure:: _static/zulu1.png
    :name: autocad1
    :align: center
-   :width: 16cm
+   :width: 24cm
 
 * Слой добавлен на карту
 
 .. figure:: _static/zulu2.png
    :name: autocad2
    :align: center
-   :width: 16cm
+   :width: 24cm
