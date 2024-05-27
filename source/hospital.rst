@@ -15,7 +15,7 @@
 .. figure:: _static/hospital1.png
    :name: hospital1
    :align: center
-   :width: 16cm
+   :width: 20cm
 
 * В таблице атрибутов слоя в поле «ADDR_CITY» также содержится информация о населенном пункте, в пределах которого расположен конкретный объект. 
 
@@ -33,18 +33,18 @@
 .. figure:: _static/hospital2.png
    :name: hospital2
    :align: center
-   :width: 16cm
+   :width: 20cm
    
 * В изменившемся окне в поле «Building» впишите «hospital», в поле «ADDR_CITY» - «хабаровск». Справа напротив полей в выпадающем списке выберите «Equal to (=)», далее нажмите «Select features».
 
 .. figure:: _static/hospital3.png
    :name: hospital3
    :align: center
-   :width: 16cm
+   :width: 20cm
    
 * Объекты, удовлетворяющие условиям фильтра, будут выбраны как в таблице атрибутов, так и на карте. Для удобства их просмотра нажмите на кнопку «Переключиться в режим таблицы» и в изменившемся окне выберите «Move selection to top».
 
 .. figure:: _static/hospital4.png
    :name: hospital4
    :align: center
-   :width: 16cm
+   :width: 24cm
