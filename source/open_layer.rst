@@ -11,14 +11,14 @@
 .. figure:: _static/open_map3.png
    :name: open_map3
    :align: center
-   :width: 16cm
+   :width: 20cm
 
 * Слой будет добавлен в NextGIS QGIS и готов к работе.
 
 .. figure:: _static/open_map4.png
    :name: open_map4
    :align: center
-   :width: 16cm
+   :width: 20cm
    
 * Для просмотра атрибутов определенного слоя, щелкните по нему правой кнопкой мыши и в контекстном меню выберите «Открыть таблицу атрибутов». Откроется окно с атрибутами (характеристиками) объектов, принадлежащих слою. Ознакомиться с перечнем атрибутов для всех слоев можно |location_link|.
 
@@ -29,4 +29,4 @@
 .. figure:: _static/open_map5.png
    :name: open_map5
    :align: center
-   :width: 16cm
+   :width: 20cm
