@@ -11,11 +11,11 @@
 .. figure:: _static/open_map1.png
    :name: open_map1
    :align: center
-   :width: 16cm
+   :width: 20cm
 
 * Проект будет добавлен в NextGIS QGIS; данные готовы к работе.
 
 .. figure:: _static/open_map2.png
    :name: open_map2
    :align: center
-   :width: 16cm
+   :width: 20cm
