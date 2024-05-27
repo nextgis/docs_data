@@ -1,7 +1,7 @@
 .. _data_blender:
 
 Как загрузить данные в Blender
-=============================
+===============================
 
 .. note::
    Предполагается, что  в приложении Blender уже загружено и настроено дополнение Blender GIS для работы с пространственными данными.
@@ -17,11 +17,11 @@
 .. figure:: _static/blender1.png
    :name: blender1
    :align: center
-   :width: 16cm
+   :width: 24cm
 
 * Ваша карта загружена. Отмеченное поле с атрибутивной информацией находится справа.
 
 .. figure:: _static/blender2.png
    :name: blender2
    :align: center
-   :width: 16cm
+   :width: 24cm
