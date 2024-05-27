@@ -10,21 +10,21 @@
 .. figure:: _static/district1.png
    :name: district1
    :align: center
-   :width: 16cm
+   :width: 22cm
 
 * Границы районов добавлены в ГИС.
 
 .. figure:: _static/district2.png
    :name: district2
    :align: center
-   :width: 16cm
+   :width: 22cm
    
 * Если Вы хотите, чтобы границы районов отображались только контурами, щелкнув правой кнопкой мыши по слою, выберите «Свойства». В открывшемся окне выберите «Стиль» > «Простая заливка» > «Без заливки» и нажмите «Применить».
 
 .. figure:: _static/district3.png
    :name: district3
    :align: center
-   :width: 16cm
+   :width: 20cm
 
 .. note::
 
