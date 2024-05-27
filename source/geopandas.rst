@@ -19,7 +19,7 @@
 .. figure:: _static/geopandas_map.png
    :name: geopandas_map
    :align: center
-   :width: 16cm
+   :width: 12cm
 
 
 Посчитать и вывести площади районов:
@@ -32,4 +32,4 @@
 .. figure:: _static/geopandas_table.png
    :name: geopandas_table
    :align: center
-   :width: 16cm
+   :width: 10cm
