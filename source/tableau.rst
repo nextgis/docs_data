@@ -10,25 +10,25 @@
 .. figure:: _static/tableau1.png
    :name: tableau1
    :align: center
-   :width: 16cm
+   :width: 24cm
    
 * Данные будут открыты во вкладке **Data Source**, необходимо перейти во вкладку с рабочим листом (**Sheet 1**).
 
 .. figure:: _static/tableau2.png
    :name: tableau2
    :align: center
-   :width: 16cm
+   :width: 24cm
    
 * В панели **Data** слева найдите поле **Geometry** и перетащите его в рабочую область.
 
 .. figure:: _static/tableau3.png
    :name: tableau3
    :align: center
-   :width: 16cm
+   :width: 24cm
    
 * Слой добавлен в Tableau.
 
 .. figure:: _static/tableau4.png
    :name: tableau4
    :align: center
-   :width: 16cm
+   :width: 24cm
