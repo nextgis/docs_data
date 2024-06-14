@@ -7,19 +7,19 @@
 * Дождитесь получения результата, скачайте, распакуйте архив с данными.
 * Импортируйте полученный файл KML на карту в сервисе Google My Maps.
 
-.. figure:: _static/google_mymaps1.png
+.. figure:: _static/google_mymaps_add_layer_ru.png
    :name: google_mymaps1
    :align: center
-   :width: 16cm
+   :width: 20cm
 
-.. figure:: _static/google_mymaps2.png
+.. figure:: _static/google_mymaps_upload_ru.png
    :name: google_mymaps2
    :align: center
-   :width: 16cm
+   :width: 20cm
 
 * Данные добавлены на карту
 
-.. figure:: _static/google_mymaps3.png
+.. figure:: _static/google_mymaps_result_ru.png
    :name: google_mymaps3
    :align: center
-   :width: 16cm
+   :width: 20cm
