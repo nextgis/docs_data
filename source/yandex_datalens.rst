@@ -104,3 +104,5 @@
    :width: 20cm
 
    Итоговая карта
+
+Посмотреть, как это работает, также можно в `видео <https://youtu.be/BAUPdUcQR3E?si=i-IPKJU9-6ISOc3o>`_.
