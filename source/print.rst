@@ -21,10 +21,10 @@
 
 Масштаб, охват карты и другие параметры можно настроить во вкладке "Свойства элемента". Подробнее о `создании макета <https://docs.nextgis.ru/docs_ngqgis/source/map_composer.html>`_.
 
-.. figure:: _static/layout_klg_ru.png
+.. figure:: _static/layout_klg_ngq_ru.png
    :name: layout_klg_pic
    :align: center
-   :width: 24cm
+   :width: 22cm
 
    Макет карты для печати или сохранения. 1 - кнопка "Добавить карту"; 2 - вкладка "Свойства элемента"; 3 - кнопки вывода на печать и экспорта в разные форматы
 
