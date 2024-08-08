@@ -9,10 +9,10 @@
 * Запустите QGIS.
 * Перетащите из папки с распакованными данными файлы **hillshade.tif** (светотеневая отмывка), **dem.tif** (цифровая модель рельефа) и **contour_lines.shp** (изолинии рельефа) в интерфейс QGIS.
 
-.. figure:: _static/elev_files_qgis_ru.png
+.. figure:: _static/elev_files_ngqgis_ru.png
    :name: elev_files_qgis
    :align: center
-   :width: 18cm
+   :width: 20cm
    
 
 
@@ -23,10 +23,10 @@
 #. Цифровая модель рельефа
 
 
-.. figure:: _static/elev_qgis_project_ru2.png
+.. figure:: _static/elev_ngqgis_project_ru.png
    :name: elev_qgis_project
    :align: center
-   :width: 18cm
+   :width: 20cm
    
 
 
