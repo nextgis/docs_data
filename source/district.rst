@@ -5,26 +5,26 @@ How to get municipal boundaries for a target region
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in GeoJSON format.
 * Wait for an email with the download link. Download and unpack the data.
-* Launch QGIS and in the main menu select “Layer” > “Add Layer” > “Add Vector Layer…”. In a pop-up window from downloaded folder “data” select file “boundary-polygon-land-lvl6.geojson” (in our example it corresponds to municipalities in Iceland).
+* Launch QGIS and in the main menu select “Layer” > “Add Layer” > “Add Vector Layer…”. In a pop-up window from downloaded folder “data” select file “boundary-polygon-land-lvl6.geojson”.
 
-.. figure:: _static/district1.png
+.. figure:: _static/district_add_layer_en.png
    :name: district1
    :align: center
-   :width: 16cm
+   :width: 22cm
 
 * Municipalities’ boundaries are imported in GIS.
 
-.. figure:: _static/district2.png
+.. figure:: _static/district_in_qgis_en.png
    :name: district2
    :align: center
-   :width: 16cm
+   :width: 22cm
    
-* If you want municipalities to be shown as outlines, right-click on a layer and select “Properties”. In pop-up window select “Style” > “Simple fill” > “No Brush” and press “Apply”.
+* If you want municipalities to be shown as outlines, right-click on a layer and select “Properties”. In pop-up window select Symbology > Simple fill > Fill style=“No Brush” and press **Apply**.
 
-.. figure:: _static/district3.png
+.. figure:: _static/district_no_fill_en.png
    :name: district3
    :align: center
-   :width: 16cm
+   :width: 20cm
 
 .. note::
 
