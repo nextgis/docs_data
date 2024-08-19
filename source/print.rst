@@ -21,7 +21,7 @@ Press **Add map** button on the toolbar to the left.
 
 You can set up scale, scope and other parameters of the map in the "Item Properties" tab on the right. .
 
-.. figure:: _static/layout_b_en.png
+.. figure:: _static/layout_en.png
    :name: layout_pic
    :align: center
    :width: 20cm
