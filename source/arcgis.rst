@@ -21,18 +21,18 @@ Project includes all layers with preset styles.
 .. figure:: _static/arcgis_browse_folder_en.png
    :name: arcgis_browse_folder_pic
    :align: center
-   :width: 20cm
+   :width: 24cm
 
 * Right-click the MXD file and select «Import And Open».
 
 .. figure:: _static/arcgis_import_en.png
    :name: arcgis_import_pic
    :align: center
-   :width: 20cm
+   :width: 24cm
 
 Shortly the project will be imported to ArcGIS Pro and ready for work.
 
 .. figure:: _static/arcgis_result_en.png
    :name: arcgis_result_pic
    :align: center
-   :width: 20cm
+   :width: 24cm
