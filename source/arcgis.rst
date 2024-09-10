@@ -7,7 +7,7 @@
 
 * Скачайте и установите ArcGIS Pro, откройте его и создайте необходимую директорию для Ваших данных.
 
-.. figure:: _static/arcgis_create_folder_ru.png
+.. figure:: _static/arcgis_create_folder_en.png
    :name: arcgis_create_folder_pic
    :align: center
    :width: 24cm
@@ -21,18 +21,18 @@
 .. figure:: _static/arcgis_browse_folder_ru.png
    :name: arcgis_browse_folder_pic
    :align: center
-   :width: 20cm
+   :width: 24cm
 
 * Нажмите правой кнопкой мыши на файл формата .MXD и выберите «Import And Open».
 
 .. figure:: _static/arcgis_import_ru.png
    :name: arcgis_import_pic
    :align: center
-   :width: 20cm
+   :width: 24cm
 
 Спустя некоторое время проект будет импортирован в ArcGIS Pro и данные будут готовы к работе.
 
 .. figure:: _static/arcgis_result_ru.png
    :name: arcgis_result_pic
    :align: center
-   :width: 20cm
+   :width: 24cm
