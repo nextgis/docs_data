@@ -3,7 +3,7 @@
 Как открыть карту или проект целиком в ArcGIS Pro
 ===================================================================
 
-* `Закажите данные <https://data.nextgis.com/ru/catalog/subdivisions/?country=AU>`_ на интересующую Вас территорию в формате Shape (ArcGIS) или Geodatabase (ArcGIS).
+* `Закажите данные <https://data.nextgis.com/ru/catalog/subdivisions/?country=RU>`_ на интересующую Вас территорию в формате Shape (ArcGIS) или Geodatabase (ArcGIS).
 
 * Скачайте и установите ArcGIS Pro, откройте его и создайте необходимую директорию для Ваших данных.
 
