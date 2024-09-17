@@ -36,31 +36,78 @@
       </svg>
     </div>
     <script>
-      const url =
-        "https://raw.githubusercontent.com/rendrom/rendrom.github.io/master/static/boundary-polygon-lvl6.geojson";
-
-      // scale -	Scale factor of the projection
-      // center	- Projection center [longitude, latitude]
-      // translate - Pixel [x,y] location of the projection center
-      const projection = d3
+      // scale - Множитель масштаба проекции
+      // center - Центр проекции [долгота, широта]
+      // translate - Положение центра проекции в пикселях [x, y]
+      let projection = d3
         .geoMercator()
         .scale(10000)
         .translate([200, 280])
         .center([39.5, 44.3]);
-
-      const geoGenerator = d3.geoPath().projection(projection);
-
-      function update(geojson) {
-        const u = d3
-          .select("#content g.map")
-          .selectAll("path")
-          .data(geojson.features);
-
-        u.enter().append("path").attr("d", geoGenerator);
+      
+      let geoGenerator = d3.geoPath().projection(projection);
+      
+      function handleMouseover(e, d) {
+        let pixelArea = geoGenerator.area(d); // Площадь в пикселях
+        let bounds = geoGenerator.bounds(d); // Границы объекта
+        let centroid = geoGenerator.centroid(d); // Центроид объекта
+        let measure = geoGenerator.measure(d); // Длина объекта
+      
+        d3.select("#content .info").text(
+          d.properties.NAME +
+            " (path.area = " +
+            pixelArea.toFixed(1) +
+            " path.measure = " +
+            measure.toFixed(1) +
+            ")"
+        );
+      
+        d3.select("#content .bounding-box rect")
+          .attr("x", bounds[0][0]) // Координата x левого верхнего угла
+          .attr("y", bounds[0][1]) // Координата y левого верхнего угла
+          .attr("width", bounds[1][0] - bounds[0][0]) // Ширина
+          .attr("height", bounds[1][1] - bounds[0][1]); // Высота
+      
+        d3.select("#content .centroid")
+          .style("display", "inline")
+          .attr("transform", "translate(" + centroid + ")"); // Позиция центроида
       }
+      
+      // Вспомогательная функция для переворота координат, если площадь полигона отрицательная
+      function fixCoordinates(coordinates) {
+        return coordinates.map(function (ring) {
+          if (d3.polygonArea(ring) < 0) {
+            return ring.reverse(); // Переворот координат
+          }
+          return ring;
+        });
+      }
+      
+      function update(features) {
+        features.forEach(function (feature) {
+          const geometryType = feature.geometry.type; // Тип геометрии
+          const coordinates = feature.geometry.coordinates; // Координаты
+      
+          if (geometryType === "Polygon") {
+            feature.geometry.coordinates = fixCoordinates(coordinates); // Исправление координат полигона
+          } else if (geometryType === "MultiPolygon") {
+            feature.geometry.coordinates = coordinates.map(fixCoordinates); // Исправление координат мультиполигона
+          }
+        });
+      
+        let u = d3.select("#content g.map").selectAll("path").data(features);
+      
+        u.enter()
+          .append("path")
+          .attr("d", geoGenerator) // Создание пути
+          .on("mouseover", handleMouseover); // Добавление события при наведении
+      }
+      
+      // ЗАПРОС ДАННЫХ
+      d3.json(url).then(function (json) {
+        update(json.features); // Обновление данных
+      });
 
-      // REQUEST DATA
-      d3.json(url).then(update);
     </script>
   </body>
  </html>
