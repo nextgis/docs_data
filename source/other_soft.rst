@@ -30,3 +30,4 @@
    microsoft_power_bi
    mapinfo
    arcgis
+   locus
