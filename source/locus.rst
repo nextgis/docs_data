@@ -9,14 +9,14 @@ Download and install Locus GIS  [#]_ app to your mobile device.
 
 Open the app and create a new project. To do so open the menu (three stripes in the top left corner) and go to the Projects tab.
 
-.. figure:: _static/locus_menu_en.png
+.. figure:: _static/locus_menu_en.jpg
    :name: 
    :align: center
    :width: 8cm
 
    Opening menu
 
-.. figure:: _static/locus_menu_proj_en.png
+.. figure:: _static/locus_menu_proj_en.jpg
    :name: 
    :align: center
    :width: 8cm
@@ -25,14 +25,14 @@ Open the app and create a new project. To do so open the menu (three stripes in 
 
 Press "+" in the bottom right corner and select **New empty project**.
 
-.. figure:: _static/locus_new_proj_en.png
+.. figure:: _static/locus_new_proj_en.jpg
    :name: 
    :align: center
    :width: 8cm
 
    Creating new project
 
-.. figure:: _static/locus_new_proj_empty_en.png
+.. figure:: _static/locus_new_proj_empty_en.jpg
    :name: 
    :align: center
    :width: 8cm
@@ -41,7 +41,7 @@ Press "+" in the bottom right corner and select **New empty project**.
 
 Enter a name for the project, select a Coordinate Reference System and coordinate type. Add description if you need. Then press **Ok**.
 
-.. figure:: _static/locus_new_proj_set_en.png
+.. figure:: _static/locus_new_proj_set_en.jpg
    :name: 
    :align: center
    :width: 8cm
@@ -51,14 +51,14 @@ Enter a name for the project, select a Coordinate Reference System and coordinat
 
 To add a new layer press the "+" in the bottom right corner and in the menu select **Display file**.
 
-.. figure:: _static/locus_layer_create_en.png
+.. figure:: _static/locus_layer_create_en.jpg
    :name: 
    :align: center
    :width: 8cm
 
    Creating new layer
 
-.. figure:: _static/locus_display_file_en.png
+.. figure:: _static/locus_display_file_en.jpg
    :name: 
    :align: center
    :width: 8cm
@@ -67,14 +67,14 @@ To add a new layer press the "+" in the bottom right corner and in the menu sele
 
 For the source select **Main directory**, then open the folder in your device and select the KML file. 
 
-.. figure:: _static/locus_source_folder_en.png
+.. figure:: _static/locus_source_folder_en.jpg
    :name: 
    :align: center
    :width: 8cm
 
    Selecting Main directory as data source
 
-.. figure:: _static/locus_source_file_en.png
+.. figure:: _static/locus_source_file_en.jpg
    :name: 
    :align: center
    :width: 8cm
@@ -83,7 +83,7 @@ For the source select **Main directory**, then open the folder in your device an
 
 A layer created from this file will appear in the project.
 
-.. figure:: _static/locus_file_added_en.png
+.. figure:: _static/locus_file_added_en.jpg
    :name: 
    :align: center
    :width: 8cm
@@ -101,7 +101,7 @@ After the layer is added open its context menu (three dots on the right) and pre
 	
 The data you added will be displayed on the project map.
 
-.. figure:: _static/locus_result_en.png
+.. figure:: _static/locus_result_en.jpg
    :name: 
    :align: center
    :width: 8cm
