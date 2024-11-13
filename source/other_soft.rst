@@ -26,3 +26,4 @@ Our data in other software
    qlik
    mapinfo
    arcgis
+   locus
