@@ -12,5 +12,6 @@
    district
    hospital
    print
+   label_lang
 
 
