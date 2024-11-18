@@ -11,3 +11,4 @@ General issues
    district
    hospital
    print
+   label_lang
