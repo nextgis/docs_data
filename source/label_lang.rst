@@ -15,6 +15,7 @@ How to change the language of labels in OSM data
 
 In the OSM data structure the attributes are:
 
-* NAME - name in the local language
+* NAME - name in the local language, i.e. the most common language of the area. For example, Greek for Greece.
 * NAME_EN - name in English
+
 If the local name is in English itself, the other attribute may be empty.
