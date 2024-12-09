@@ -2,7 +2,7 @@
 
 .. NextGIS Data TOC
 
-Документация по NextGIS Data
+NextGIS Data
 ===============================
     
 .. toctree::
