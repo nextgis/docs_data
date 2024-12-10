@@ -14,10 +14,38 @@
 
 3. Также можно `нарисовать свою область <https://data.nextgis.com/ru/region/custom/base/>`_ полигоном на карте или загрузить границу из файла.
 
+.. figure:: _static/data_area_select_ru.png
+   :name: 
+   :align: center
+   :width: 20cm
+
+* |button_area_rect| - выделить область прямоугольником;
+* |button_area_draw| - нарисовать произвольный полигон;
+* |button_data_upload| - загрузить файл границы;
+* |button_clear_area| - снять выделение;
+* |button_area_fullscreen| - отрыть карту на весь экран для точного выделения области.
+
+.. |button_data_upload| image:: _static/button_data_upload.png
+   :width: 6mm
+.. |button_area_draw| image:: _static/button_area_draw.png
+   :width: 6mm
+.. |button_area_rect| image:: _static/button_area_rect.png
+   :width: 6mm
+.. |button_area_fullscreen| image:: _static/button_area_fullscreen.png
+   :width: 6mm
+.. |button_clear_area| image:: _static/button_clear_area.png
+   :width: 6mm
+
 .. _data_type:
 
 Выбрать тип данных
 -------------------
+
+.. figure:: _static/data_type_select_ru.png
+   :name: 
+   :align: center
+   :width: 20cm
+
 
 Можно заказать следующие данные:
 
@@ -39,7 +67,12 @@
 Выбрать формат
 ---------------
 
-В выпадающем меню "Формат" выберите нужный. Если в состав данных входят как векторные, так и растровые файлы, формат выбирается отдельно для каждого типа.
+В выпадающем меню "Формат" выберите нужный. 
+
+.. figure:: _static/data_format_select_ru.png
+   :name: 
+   :align: center
+   :width: 20cm
 
 Формат по умолчанию для векторных слоёв - GeoPackage (QGIS).
 
@@ -52,9 +85,24 @@
 
 Данные могут включать в себя один или несколько слоёв. Чтобы увидеть, что именно входит в каждый слой, ознакомьтесь со структурой данных.
 
-Для Базовой карты OSM и Рельефа можно выбрать, какие из слоёв вам нужны, и отключить остальные.
+Если навести курсор на слой, вы увидите пример скрина. Обратите внимание, что это просто иллюстрация, данные на конкретную территорию могут не содержать объектов в этом слое.
+
+.. figure:: _static/data_osm_layer_ill_ru.png
+   :name: 
+   :align: center
+   :width: 20cm
+
+
+При заказе Базовой карты OSM и Рельефа можно выбрать, какие из слоёв вам нужны, и отключить остальные.
+
+.. figure:: _static/data_dem_layers_select_ru.png
+   :name: 
+   :align: center
+   :width: 20cm
 
 Для Рельефа также можно выбрать шаг изолиний.
+
+
 
 .. _data_order:
 
@@ -66,6 +114,11 @@
 Введите e-mail, на который хотите получить ссылку для скачивания данных. Если у вас есть NextGIS ID, введите тот e-mail, которые использовали при регистрации.
 
 Проверьте ещё раз детали заказа. Особенно обратите внимание на выбор формата. При переходе между вкладками и других действиях страница могла обновиться, сбросив сделанный вами выбор.
+
+.. figure:: _static/data_order_details_ru.png
+   :name: 
+   :align: center
+   :width: 10cm
 
 Ниже можно ввести промокод на скидку, если он у вас есть.
 
