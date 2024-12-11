@@ -4,6 +4,7 @@ General issues
 .. toctree::
    :maxdepth: 2
 
+   order
    open_map
    open_layer
    osm_search
