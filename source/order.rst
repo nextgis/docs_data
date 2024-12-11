@@ -8,7 +8,7 @@ Select area
 
 You can select your area of interest in one of several ways:
 
-1. Brows the `catalog <https://data.nextgis.com/en/catalog/subdivisions/>`_. Select a region to view its boundaries and prices. 
+1. Browse the `catalog <https://data.nextgis.com/en/catalog/subdivisions/>`_. Select a region to view its boundaries and prices. 
 
 2. Type the name of the region into the `search bar <https://data.nextgis.com/en/>`_ on the main page or `on the map <https://data.nextgis.com/en/region/custom/base>`_ of the custom area page.
 
