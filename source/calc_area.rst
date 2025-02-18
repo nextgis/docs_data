@@ -1,10 +1,10 @@
 .. _data_calc_area:
 
-When area or distance differs from the real value
-=====================================
+When area or distance differs from the expected value
+======================================================
 
-To receive the most accurate values for distances or areas it is recommended to perform ellipsoid-based calculation (it helps to avoid distortion which appears while using any projected data).
-QGIS settings offer an easy way to perform correct calculations regardless of data initial coordinate system.
+To receive the values for distances or areas closest to on-site measurements, it is recommended to perform elipsoid-based calculation. It helps to avoid distortion which appears while using any projected data.
+QGIS settings offer an easy way to perform correct calculations regardless of the initial coordinate system of the dataset.
 
 * In Menu Toolbar select “Project” > “Project Properties…”.
 
