@@ -10,7 +10,7 @@
 * Чтобы открыть готовый ГИС-проект (включает все слои с настроенными стилями), нажмите «Проекты» > «Открыть» и в появившемся окне выберите сохраненный файл «data.qgs».
 
 .. figure:: _static/elev_project_ngqgis_ru.png
-   :name: elev_files_qgis
+   :name: elev_project_ngqgis_pic
    :align: center
    :width: 20cm
 
@@ -27,7 +27,7 @@
 * Перетащите из папки с распакованными данными в интерфейс QGIS файлы **hillshade.tif** (светотеневая отмывка), **dem.tif** (цифровая модель рельефа) и **contour_lines** (изолинии рельефа, расширение файла зависит от выбранного векторного формата, например, если вы заказали Shape, то .SHP).
 
 .. figure:: _static/elev_files_ngqgis_ru.png
-   :name: elev_files_qgis
+   :name: elev_files_ngqgis_pic
    :align: center
    :width: 20cm
    
