@@ -10,26 +10,26 @@
 * Откройте инструмент ``Добавить аттрибуты геометрии`` (верхнее меню Вектор > Обработка геометрии)
 
 .. figure:: _static/select_add_geom_attr.png
-   :name: coord1
+   :name: select_add_geom_attr_pic
    :align: center
    :width: 20cm
    
 * Откроется окно инструмента, где слой из списка уже выбран. При необходимости укажите другой или запустите в пакетном режиме. Укажите систему координат. Результат можно записать как во временный слой, так и в локальный файл
 
 .. figure:: _static/sett_add_geom_attr.png
-   :name: coord1
+   :name: sett_add_geom_attr_pic
    :align: center
    :width: 20cm
    
 * После выполнения алгоритма будет создан новый слой, содержащий все атрибуты исходного + 2 новых стобца с координатам x и y.
 
 .. figure:: _static/new_layer_gem.png
-   :name: coord1
+   :name: new_layer_gem_pic
    :align: center
    :width: 20cm
    
    
 .. figure:: _static/new_layer_attr.png
-   :name: coord1
+   :name: new_layer_attr_pic
    :align: center
    :width: 20cm
