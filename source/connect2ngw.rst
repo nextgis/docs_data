@@ -28,6 +28,7 @@
    :width: 20cm
 
 * Появится панель модуля NextGIS Connect. Также панель можно открыть при помощи кнопки |connect_icon| на панели инструментов. 
+
 .. |connect_icon| image:: _static/connect_icon.png
 
 .. figure:: _static/connect_panel.png
