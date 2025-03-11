@@ -1,31 +1,31 @@
 .. _data_yandex_const:
 
 Как загрузить данные на Яндекс карты
-===========================
+=====================================
 
 * `Закажите данные <https://data.nextgis.com/ru/>`_ на интересующую Вас территорию в формате GeoJSON.
 * Дождитесь получения результата, скачайте, распакуйте архив с данными.
 * Импортируйте желаемый слой или слои на карту в сервисе Конструктор карт Яндекса.
 
 .. figure:: _static/yandex_add_layer_ru.png
-   :name: yandex_const1
+   :name: yandex_add_layer_pic
    :align: center
    :width: 20cm
 
 .. figure:: _static/yandex_upload_select_ru.png
-   :name: yandex_const2
+   :name: yandex_upload_select_pic
    :align: center
    :width: 20cm
 
 .. figure:: _static/yandex_upload_features_ru.png
-   :name: yandex_const3
+   :name: yandex_upload_features_pic
    :align: center
    :width: 20cm
 
 * Данные добавлены на карту
 
 .. figure:: _static/yandex_result_ru.png
-   :name: yandex_const3
+   :name: yandex_result_pic
    :align: center
    :width: 20cm
    
