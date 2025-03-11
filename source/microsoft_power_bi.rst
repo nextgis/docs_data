@@ -1,4 +1,4 @@
-.. _data_power_bi:
+.. _geo_data_power_bi:
 
 Как загрузить геоданные в Microsoft Power BI
 =============================================
