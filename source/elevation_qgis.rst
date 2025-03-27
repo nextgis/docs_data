@@ -10,14 +10,14 @@ How to open elevation data in QGIS
 * To open a preset GIS project (which includes all layers with customized styles), click “Project” > “Open” and in pop-up window select the saved file “data.qgs”.
 
 .. figure:: _static/elev_project_ngqgis_en.png
-   :name: elev_files_qgis
+   :name: elev_project_ngqgis_pic
    :align: center
    :width: 20cm
 
 * The project will be added to QGIS; data is ready to go.
 
 .. figure:: _static/elev_opened_en.png
-   :name: elev_qgis_project
+   :name: elev_opened_pic
    :align: center
    :width: 20cm
 
@@ -26,7 +26,7 @@ You can also add elevation data as files to an existing project.
 * Drag and drop the following files from the unpacked data folder to QGIS interface: **hillshade.tif**, **dem.tif** and **contour_lines** (extention depends on the file type, for example if you purchased Shape file, you'll need contour_lines.shp).
 
 .. figure:: _static/elev_files_qgis_en.png
-   :name: elev_files_qgis
+   :name: elev_files_qgis_pic
    :align: center
    :width: 18cm
 
