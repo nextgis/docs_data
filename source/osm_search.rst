@@ -1,7 +1,7 @@
 .. _data_osm_search:
 
 How to find the object I need on OpenStreetMap
-===========================
+===============================================
 
 * First you need to go to the OpenStreetMap website. To do this, enter osm.org in the address bar of your browser or follow this `link <https://www.openstreetmap.org>`_.
 
