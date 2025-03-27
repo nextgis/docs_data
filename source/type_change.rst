@@ -1,7 +1,7 @@
 .. _data_type_change:
 
 How to convert file to another GIS format
-===========================
+=========================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoJSON format.
 * Wait for an email with the download link. Download and unpack the data.
