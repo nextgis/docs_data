@@ -27,7 +27,8 @@ How to upload data to NextGIS Web with via NextGIS Connect
    :align: center
    :width: 20cm
 
-* NextGIS Connect panel will appear. You can also call this panel via |connect2ngw2| button from the toolbar. 
+* NextGIS Connect panel will appear. You can also call this panel via |connect2ngw2| button from the toolbar.
+
 .. |connect2ngw2| image:: _static/connect2ngw2.png
 
 .. figure:: _static/connect2ngw3.png
