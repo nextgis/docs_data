@@ -1,7 +1,7 @@
 .. _data_google_mymaps:
 
 How to upload data to Google maps
-===========================
+==================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoJSON (QGIS) format.
 * Wait for an email with the download link. Download and unpack the data.
@@ -10,18 +10,18 @@ How to upload data to Google maps
 * Import the resulting KML file into the map in Google My Maps.
 
 .. figure:: _static/google_mymaps1.png
-   :name: google_mymaps1
+   :name: google_mymaps1_pic
    :align: center
    :width: 16cm
 
 .. figure:: _static/google_mymaps2.png
-   :name: google_mymaps2
+   :name: google_mymaps2_pic
    :align: center
    :width: 16cm
 
 * Data is added to the map.
 
 .. figure:: _static/google_mymaps3.png
-   :name: google_mymaps3
+   :name: google_mymaps3_pic
    :align: center
    :width: 16cm
