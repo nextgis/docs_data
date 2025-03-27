@@ -1,7 +1,7 @@
 .. _data_map3d:
 
 How to add a layer in AutoCAD Map 3D
-===========================
+======================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in GeoPackage (QGIS) format.
 * Wait for an email with the download link. Download and unpack the data.
@@ -12,7 +12,7 @@ How to add a layer in AutoCAD Map 3D
    :align: center
    :width: 16cm
 
-* Select the tab "Insert" > "Map Import". In pop-up window from the drop-down list select the correct format "Files of type" - GeoPackage (*.gpkg) and choose the layer of interest.
+* Select the tab "Insert" > "Map Import". In pop-up window from the drop-down list select the correct format "Files of type" - GeoPackage (\*.gpkg) and choose the layer of interest.
 
 .. figure:: _static/map3d2.png
    :name: map3d2
