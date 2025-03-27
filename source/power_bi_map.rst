@@ -1,7 +1,7 @@
 .. _data_power_bi_map:
 
 How to load vector layer into Microsoft Power BI
-===========================
+=================================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoJSON (QGIS) format.
 * Wait for an email with the download link. Download and unpack the data.
