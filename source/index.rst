@@ -1,10 +1,17 @@
 .. NextGIS data
-.. sectionauthor:: Dmitry Baryshnikov <dmitry.baryshnikov@nextgis.com>
 
-.. include:: toc.rst
+.. NextGIS Data TOC
 
+NextGIS Data
+===============================
+    
 .. toctree::
    :maxdepth: 2
+   
+   common
+   other_soft
+   transform
+   problems
 
    
    
