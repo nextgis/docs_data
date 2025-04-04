@@ -1,9 +1,11 @@
 .. sectionauthor:: Aleksandr Myrov, Yuliya Grigorenko <grigorenko.j@gmail.com>
 
-Как открыть карту или проект целиком в ArcGIS Pro
+Как открыть карту или проект ArcMap в ArcGIS Pro
 ===================================================================
 
-* `Закажите данные <https://data.nextgis.com/ru/catalog/subdivisions/?country=RU>`_ на интересующую Вас территорию в формате Shape (ArcGIS) или Geodatabase (ArcGIS).
+* `Закажите данные <https://data.nextgis.com/ru/catalog/subdivisions/?country=RU>`_ на интересующую Вас территорию в формате Shape (ArcMap) или Geodatabase (ArcMap).
+
+.. note:: Вы можете заказать данные в формате ESRI Geodatabase (**ArcGIS Pro**). Тогда к данным будет приложен проект в формате APRX, который будет проще открыть.
 
 * Скачайте и установите ArcGIS Pro, откройте его и создайте необходимую директорию для Ваших данных.
 
