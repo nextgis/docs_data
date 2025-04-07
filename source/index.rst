@@ -15,8 +15,7 @@ NextGIS Data
 
    
    
-Index and glossary
-==================
+
 
 * :ref:`genindex`
 * :ref:`search`
