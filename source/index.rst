@@ -14,10 +14,7 @@ NextGIS Data
    problems
 
    
-   
-Index and glossary
-==================
+
 
 * :ref:`genindex`
-* :ref:`search`
 * :ref:`glossary`
