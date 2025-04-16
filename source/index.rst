@@ -16,5 +16,3 @@ NextGIS Data
    
 
 
-* :ref:`genindex`
-* :ref:`glossary`
