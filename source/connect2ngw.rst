@@ -31,17 +31,24 @@ How to upload data to NextGIS Web with via NextGIS Connect
 
 .. |connect2ngw2| image:: _static/connect2ngw2.png
 
-.. figure:: _static/connect2ngw3.png
+.. figure:: _static/connect_panel_en_2.png
    :name: connect2ngw3
    :align: center
    :width: 8cm
       
-* Set connection to your Web GIS: press "Settings" button (gear icon), then in pop-up window press "New", in next pop-up window fill in all the fields with the details of your Web GIS and press "OK". You can notice, that in very first pop-up window the name of connection appeared; press "Close" to finish settings.
+* Set connection to your Web GIS: press "Settings" button (gear icon), then in pop-up window press "New", in next pop-up window fill in all the fields with the details of your Web GIS and press "Save". If needed, add authentication configuration with your NextGIS ID login and password.
 
-.. figure:: _static/connect2ngw4_en.png
+Press "Close" to finish settings.
+
+.. figure:: _static/create_connection_en.png
    :name: connect2ngw4
    :align: center
-   :width: 26cm
+   :width: 20cm
+
+.. figure:: _static/auth_config_create_en_2.png
+   :name: connect2ngw4
+   :align: center
+   :width: 10cm
       
 * In NextGIS Connect panel resources from your Web GIS are displayed now.
 
