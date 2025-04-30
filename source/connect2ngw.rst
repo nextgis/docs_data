@@ -1,6 +1,6 @@
 .. _data_connect2ngw:
 
-How to upload data to NextGIS Web with via NextGIS Connect
+How to upload data to NextGIS Web with NextGIS Connect
 ==========================================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in Geopackage format (QGIS).
