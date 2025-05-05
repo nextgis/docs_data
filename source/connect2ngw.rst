@@ -27,16 +27,21 @@ How to upload data to NextGIS Web with NextGIS Connect
    :align: center
    :width: 20cm
 
-* NextGIS Connect panel will appear. You can also call this panel via |connect2ngw2| button from the toolbar.
+* NextGIS Connect panel will appear. You can also call this panel via |logo_connect| button from the toolbar.
 
-.. |connect2ngw2| image:: _static/connect2ngw2.png
+.. |logo_connect| image:: _static/logo_connect.png
+   :width: 8mm
 
-.. figure:: _static/connect_panel_en_2.png
-   :name: connect2ngw3
+.. figure:: _static/panel-no-connections_en.png
+   :name: panel-no-connections_pic
    :align: center
-   :width: 8cm
+   :width: 9cm
       
-* Set connection to your Web GIS: press "Settings" button (gear icon), then in pop-up window press "New", in next pop-up window fill in all the fields with the details of your Web GIS and press "Save". If needed, add authentication configuration with your NextGIS ID login and password.
+* Set connection to your Web GIS: press "Settings" button |button_settings|, then in pop-up window press "New", in next pop-up window fill in all the fields with the details of your Web GIS and press "Save". If needed, add authentication configuration with your NextGIS ID login and password.
+
+.. |button_settings| image:: _static/button_settings.png
+   :width: 6mm
+   :alt: gear icon
 
 Press "Close" to finish settings.
 
@@ -52,12 +57,15 @@ Press "Close" to finish settings.
       
 * In NextGIS Connect panel resources from your Web GIS are displayed now.
 
-.. figure:: _static/connect2ngw5_en.png
-   :name: connect2ngw5
+.. figure:: _static/connect_panel_en_2.png
+   :name: connect2ngw3
    :align: center
-   :width: 8cm
+   :width: 9cm
       
-* Select Resource group which will host GIS project, press "Add to Web GIS" button and select "Import current project" from drop-down list.
+* Select Resource group which will host GIS project, press |button_to_wg| "Add to Web GIS" button and select "Import current project" from drop-down list.
+
+.. |button_to_wg| image:: _static/button_to_wg.png
+   :width: 6mm
 
 .. figure:: _static/connect2ngw6_en.png
    :name: connect2ngw6
