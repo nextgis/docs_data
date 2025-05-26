@@ -50,10 +50,11 @@
 Можно заказать следующие данные:
 
 * `Базовая карта OpenStreetMap <https://data.nextgis.com/ru/region/custom/base/>`_
-* `Базовая карта Ouverture <https://data.nextgis.com/ru/region/custom/overture/>`_
+* `Базовая карта Overture <https://data.nextgis.com/ru/region/custom/overture/>`_
 * `Рельеф <https://data.nextgis.com/ru/region/custom/dem/>`_
 * `Застройка AI <https://data.nextgis.com/ru/region/custom/msbld/>`_
 * `Дороги AI <https://data.nextgis.com/ru/region/custom/msrd/>`_
+* `Ландшафты <https://data.nextgis.com/ru/region/custom/landcover/>`_
 * `Космосъёмка <https://data.nextgis.com/ru/region/custom/sat/>`_
 * `Реформа ЖКХ <https://data.nextgis.com/ru/region/custom/gkh/>`_
 * `Особо охраняемые природные территории <https://data.nextgis.com/ru/region/custom/oopt/>`_
