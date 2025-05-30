@@ -29,6 +29,7 @@
    blender
    microsoft_power_bi
    mapinfo
+   mapinfo_raster
    arcgispro
    arcgis
    locus
