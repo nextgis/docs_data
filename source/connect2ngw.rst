@@ -1,6 +1,6 @@
 .. _data_connect2ngw:
 
-How to upload data to NextGIS Web with via NextGIS Connect
+How to upload data to NextGIS Web with NextGIS Connect
 ==========================================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in Geopackage format (QGIS).
@@ -27,30 +27,45 @@ How to upload data to NextGIS Web with via NextGIS Connect
    :align: center
    :width: 20cm
 
-* NextGIS Connect panel will appear. You can also call this panel via |connect2ngw2| button from the toolbar.
+* NextGIS Connect panel will appear. You can also call this panel via |logo_connect| button from the toolbar.
 
-.. |connect2ngw2| image:: _static/connect2ngw2.png
+.. |logo_connect| image:: _static/logo_connect.png
+   :width: 8mm
 
-.. figure:: _static/connect2ngw3.png
-   :name: connect2ngw3
+.. figure:: _static/panel-no-connections_en.png
+   :name: panel-no-connections_pic
    :align: center
-   :width: 8cm
+   :width: 9cm
       
-* Set connection to your Web GIS: press "Settings" button (gear icon), then in pop-up window press "New", in next pop-up window fill in all the fields with the details of your Web GIS and press "OK". You can notice, that in very first pop-up window the name of connection appeared; press "Close" to finish settings.
+* Set connection to your Web GIS: press "Settings" button |button_settings|, then in pop-up window press "New", in next pop-up window fill in all the fields with the details of your Web GIS and press "Save". If needed, add authentication configuration with your NextGIS ID login and password.
 
-.. figure:: _static/connect2ngw4_en.png
+.. |button_settings| image:: _static/button_settings.png
+   :width: 6mm
+   :alt: gear icon
+
+Press "Close" to finish settings.
+
+.. figure:: _static/create_connection_en.png
    :name: connect2ngw4
    :align: center
-   :width: 26cm
+   :width: 20cm
+
+.. figure:: _static/auth_config_create_en_2.png
+   :name: connect2ngw4
+   :align: center
+   :width: 10cm
       
 * In NextGIS Connect panel resources from your Web GIS are displayed now.
 
-.. figure:: _static/connect2ngw5_en.png
-   :name: connect2ngw5
+.. figure:: _static/connect_panel_en_2.png
+   :name: connect2ngw3
    :align: center
-   :width: 8cm
+   :width: 9cm
       
-* Select Resource group which will host GIS project, press "Add to Web GIS" button and select "Import current project" from drop-down list.
+* Select Resource group which will host GIS project, press |button_to_wg| "Add to Web GIS" button and select "Import current project" from drop-down list.
+
+.. |button_to_wg| image:: _static/button_to_wg.png
+   :width: 6mm
 
 .. figure:: _static/connect2ngw6_en.png
    :name: connect2ngw6
