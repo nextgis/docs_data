@@ -25,6 +25,7 @@ Our data in other software
    blender
    qlik
    mapinfo
+   mapinfo_raster
    arcgispro
    arcgis
    locus
