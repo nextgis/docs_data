@@ -135,3 +135,18 @@ If you’re purchasing data on behalf of the organisation, we can issue an invoi
 `More on payment methods <https://data.nextgis.com/en/faq/#pay>`_
 
 Payment is made in euros, if your card has another currency, the conversion is handled by the bank.   
+
+.. _data_donwload:
+
+Download data
+------------------
+
+Log in to data.nextgis.com. If you don't have NextGIS ID yet, sign up using the email address you entered for your data order.
+
+After signing in click **Orders** in the top right corner. It will open your order history. In this section you can find all the orders made for that particular email address. You can see if the order is ready and download the data. Also you can repeat older orders to get actualized data for the same area.
+
+.. figure:: _static/data_orders_list_en.jpg
+   :name: data_orders_list_pic
+   :align: center
+   :width: 20cm
+
