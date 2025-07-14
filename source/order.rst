@@ -55,10 +55,7 @@ Data types you can order:
 * `Buildings AI <https://data.nextgis.com/en/region/custom/msbld/>`_
 * `Roads AI <https://data.nextgis.com/en/region/custom/msrd/>`_
 * `Satellite <https://data.nextgis.com/ru/region/custom/sat/>`_
- 
- 
- 
-* Coming soon - Heritage
+* `Heritage <https://data.nextgis.com/ru/region/custom/heritage/>`_
 
 On each page you can download samples and check out data structure.
 
@@ -117,7 +114,7 @@ After selecting an area you'll see the price and the order details at the bottom
    :width: 20cm
 
 
-Enter the email you want to use to receive the download link. If you have NextGIS ID, enter the email you used for registration.
+The email field is mandatory. The result of your order will be available for download on `the Orders page <https://data.nextgis.com/en/orders/actual>`_ – to view it, you need to sign in / create account at `my.nextgis.com <https://data.nextgis.com/login>`_ with email you are using during purchase. If you already have an account on `my.nextgis.com <https://data.nextgis.com/login>`_ at the moment of purchase, we recommend signing in before placing an order.
 
 Check the details of your order. Make sure the format is indicated correctly. Switching between tabs and other actions may cause the page to refresh and reset the default format.
 
