@@ -12,7 +12,7 @@ You can select your area of interest in one of several ways:
 
 2. Type the name of the region into the `search bar <https://data.nextgis.com/en/>`_ on the main page or `on the map <https://data.nextgis.com/en/region/custom/base>`_ of the custom area page.
 
-3. You can also `draw a custom polygon area <https://data.nextgis.com/ru/region/custom/base/>`_ on the map or upload a boundary from a file.
+3. You can also `draw a custom polygon area <https://data.nextgis.com/en/region/custom/base/>`_ on the map or upload a boundary from a file.
 
 .. figure:: _static/data_area_select_en.png
    :name: 
@@ -54,8 +54,8 @@ Data types you can order:
 * `Elevation <https://data.nextgis.com/en/region/custom/dem/>`_
 * `Buildings AI <https://data.nextgis.com/en/region/custom/msbld/>`_
 * `Roads AI <https://data.nextgis.com/en/region/custom/msrd/>`_
-* `Satellite <https://data.nextgis.com/ru/region/custom/sat/>`_
-* `Heritage <https://data.nextgis.com/ru/region/custom/heritage/>`_
+* `Satellite <https://data.nextgis.com/en/region/custom/sat/>`_
+* `Heritage <https://data.nextgis.com/en/region/custom/heritage/>`_
 
 On each page you can download samples and check out data structure.
 
