@@ -58,6 +58,7 @@
 * `Космосъёмка <https://data.nextgis.com/ru/region/custom/sat/>`_
 * `Реформа ЖКХ <https://data.nextgis.com/ru/region/custom/gkh/>`_
 * `Особо охраняемые природные территории <https://data.nextgis.com/ru/region/custom/oopt/>`_
+* `Роснедра <https://data.nextgis.com/ru/region/custom/rnlic/>`_
 * `Наследие <https://data.nextgis.com/ru/region/custom/heritage/>`_
 
 На каждой странице доступны ссылки на структуру данных и примеры.
