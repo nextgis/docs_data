@@ -5,6 +5,7 @@ General issues
    :maxdepth: 2
 
    order
+   logout
    open_map
    open_layer
    osm_search
