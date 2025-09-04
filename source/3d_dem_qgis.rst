@@ -4,7 +4,8 @@ How to load elevation data into QGIS 3D window
 ===============================================
  
 * `Order elevation data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoPackage (QGSIS) and GeoTIFF format choosing the step of contour lines.
-* Wait for an email with the download link. Download and unpack the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * Download and install `QGIS <https://qgis.org/en/site/forusers/download.html/>`_.
 * Launch QGIS.
 * Drag and drop **hillshade.tif**, **dem.tif** and **contour_lines.gpkg** from the unpacked data folder to QGIS interface.

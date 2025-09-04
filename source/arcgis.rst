@@ -12,7 +12,9 @@ How to open a map or a project in ArcGIS Pro
    :align: center
    :width: 24cm
 
-* Wait for an email with the download link. Download and unpack the data to the folder your created.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
+
 
 Project includes all layers with preset styles. 
 

@@ -4,7 +4,8 @@ How to upload text data into Microsoft Power BI
 ===================================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in CSV (Excel) format.
-* Wait for an email with the download link. Download and unpack the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * In Power BI Desktop select "File" > "Get Data" > "Text/CSV".
 
 .. figure:: _static/power_bi1.png

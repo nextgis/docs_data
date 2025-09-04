@@ -4,7 +4,8 @@ How to open data in Excel
 ===================================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in CSV format.
-* Wait for an email with the download link. Download and unpack the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * Launch Excel. Select the "Data" tab > "From Text/CSV" and in the pop-up window find the desired layer in CSV format, click "Import".
 
 .. figure:: _static/excel1.png

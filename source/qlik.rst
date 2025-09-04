@@ -4,7 +4,8 @@ How to load data into Qlik Sense
 =================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoJSON (QGIS) format.
-* Wait for an email with the download link. Download and unpack the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * Convert the desired layer or layers to KML format. For conversion, you can use any online converter, for example, `GeoConverter <https://geoconverter.hsr.ch/vector>`_.
 * In created Qlik Sense app go to "Data manager" tab and select "Add data from files and other sources".
 

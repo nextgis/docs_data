@@ -4,7 +4,8 @@ How to get coordinates of a target object
 ==========================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoPackage (QGIS) format.
-* Wait for an email with the download link. Download and unpack the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * Add a layer with target object to `QGIS <https://qgis.org/en/site/forusers/download.html>`_. 
 * Find target object on the map (or through attribute table) and select it. Selected point object is highlighted with yellow on the map and with blue – in attribute table. If you selected an object through the map, use “Move selection to top” button to locate it in attribute table.
 

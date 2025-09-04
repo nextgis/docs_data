@@ -4,7 +4,8 @@ How to open elevation data in QGIS
 ====================================
 
 * `Order elevation data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoPackage (QGIS) and GeoTIFF format choosing the step of contour lines.
-* Wait for an email with the download link. Download and unpack the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * Download and install `QGIS <https://qgis.org/en/site/forusers/download.html>`_.
 * Launch QGIS.
 * To open a preset GIS project (which includes all layers with customized styles), click “Project” > “Open” and in pop-up window select the saved file “data.qgs”.

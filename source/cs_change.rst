@@ -4,7 +4,8 @@ How to change coordinate reference system of the data
 =========================================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoJSON (QGIS) format.
-* Wait for an email with the download link. Download and unpack the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * Import the target layer, which coordinate reference system you'd like to change, in `QGIS <https://qgis.org/en/site/forusers/download.html>`_. 
 * In the Layer menu, select “Save as…”. Thus you’ll create a copy of the layer, but in desired coordinate reference system.
 

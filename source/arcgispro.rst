@@ -2,8 +2,8 @@ How to open your basemap project in ArcGIS Pro
 =============================================
 
 *  `Order data <https://data.nextgis.com/en/>`_ for your area of interest in ESRI Geodatabase (ArcGIS Pro) format.
-* Wait for an email with the download link. Download the archive.
-* **Unpack** the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * Launch ArcGIS Pro. On the start page, click **Open another project** and select an APRX file.
 
 .. figure:: _static/open_arcgispro_menu_en.png

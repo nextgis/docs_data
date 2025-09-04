@@ -4,7 +4,8 @@ How to vizualize data with Highcharts Maps (highcharts.js)
 ==========================================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in GeoJSON format.
-* Wait for an email with the download link. Download and unpack the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * Select a layer.
 * To add a layer to Highcharts Maps you need to host it first (i.e. put it in a place, accessible via hyperlink) and specify it's location:
 

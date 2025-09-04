@@ -2,7 +2,8 @@ How to change the language of labels in OSM data
 =================================================
 
 *  `Order data <https://data.nextgis.com/en/>`_ for your area of interest in Geopackage (QGIS) format.
-* Wait for an email with the download link. Download and **unpack** the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * Download and install `QGIS <https://qgis.org/en/site/forusers/download.html>`_.
 * Launch QGIS and open the project file data.qgs.
 * Select the layer where you want to change the label language or enable labels if they are not displayed.

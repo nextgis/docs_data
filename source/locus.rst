@@ -1,9 +1,9 @@
 How to upload data to Locus GIS mobile app
 ==================================================
 
-`Order data <https://data.nextgis.com/en/>`_ for your area of interest in KML (Google Earth) format. 
-
-Wait for an email with the download link. Download and **unpack** the data.
+* `Order data <https://data.nextgis.com/en/>`_ for your area of interest in KML (Google Earth) format. 
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 
 Download and install Locus GIS  [#]_ app to your mobile device. 
 

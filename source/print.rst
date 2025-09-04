@@ -5,11 +5,13 @@
 How to prepare map for printing
 =====================================
 
-`Order data <https://data.nextgis.com/en/>`_ for your area of interest, we recommend selecting GeoPackage format.
+* `Order data <https://data.nextgis.com/en/>`_ for your area of interest, we recommend selecting GeoPackage format.
 
-2. Wait for an email with the download link. Download and unpack the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
 
-3. Prepare the layout:
+* **Unpack** the archive.
+
+* Prepare the layout:
 
 Open the project file in QGIS.
 
@@ -28,4 +30,4 @@ You can set up scale, scope and other parameters of the map in the "Item Propert
 
    Map layout for printing or saving. 1 - Add Map; 2 - Item Properties; 3 - Print button and buttons for saving options
 
-4. Print the layout or save it, as PDF, SVG or image. The correspondent buttons are on the top toolbar.
+* Print the layout or save it, as PDF, SVG or image. The correspondent buttons are on the top toolbar.

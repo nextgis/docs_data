@@ -4,7 +4,8 @@ How to load vector layer into Microsoft Power BI
 =================================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest, e.g. in GeoJSON (QGIS) format.
-* Wait for an email with the download link. Download and unpack the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * Convert target layer to TopoJSON format. For the conversion you can use any online converter, for example, `MapShaper <https://mapshaper.org/>`_.
 * First you should activate Shape map visual. Select "File" > "Options and settings" > "Options". In pop-up window select "Preview features" from the left list and then check the box next to "Shape map visual". Press "OK".
 

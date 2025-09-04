@@ -4,7 +4,8 @@ How to load data in R
 =====================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in GeoPackage format.
-* Wait for an email with the download link. Download and unpack the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * Find out a name and a path to the target layer.
 * Install and load the rgdal package for R.
 

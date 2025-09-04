@@ -8,6 +8,7 @@ Prepare the file
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest, for example in GeoPackage format. Most likely the product you need is the Basemap.
 * Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * Select the layer, for example, administrative boundaries of the counties (boundary-polygon-lvl6) or settlements (settlement-point).
 * Use the `free online converter <https://toolbox.nextgis.com/operation/vector2datalens>`_  to prepare vector layer for DataLens by converting it to a fitting format. The output of this converter is a CSV file.
 

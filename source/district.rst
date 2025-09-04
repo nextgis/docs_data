@@ -4,7 +4,8 @@ How to get municipal boundaries for a target region
 ===================================================
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest, for example in GeoPackage format.
-* Wait for an email with the download link. Download and unpack the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * Launch QGIS and in the main menu select “Layer” > “Add Layer” > “Add Vector Layer…”. In a pop-up window from downloaded folder “data” select file “boundary-polygon-land-lvl6”.
 
 .. figure:: _static/district_add_layer_en.png

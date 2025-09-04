@@ -7,7 +7,8 @@ How to load data into PostgreSQL/PostGIS
 	To run, you need an installed PostgreSQL database with the `PostGIS extension <https://postgis.net/install/>`_.
 
 * `Order data <https://data.nextgis.com/en/>`_ for your area of interest in SQL (PostgreSQL/PostGIS) format.
-* Wait for an email with the download link. Download and unpack the data.
+* Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
+* **Unpack** the archive.
 * Select target layer.
 
 Use psql to import data into database.
