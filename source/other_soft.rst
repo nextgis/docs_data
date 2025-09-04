@@ -21,7 +21,6 @@ Our data in other software
    d3
    pg
    upload_tables_postgis
-   yandex_datalens
    tableau
    blender
    qlik
