@@ -21,6 +21,7 @@ Our data in other software
    d3
    pg
    upload_tables_postgis
+   yandex_datalens
    tableau
    blender
    qlik
@@ -29,3 +30,4 @@ Our data in other software
    arcgispro
    arcgis
    locus
+
