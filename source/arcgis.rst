@@ -1,4 +1,4 @@
-.. sectionauthor:: Aleksandr Myrov, Yuliya Grigorenko <grigorenko.j@gmail.com>
+
 
 Как открыть карту или проект ArcMap в ArcGIS Pro
 ===================================================================
