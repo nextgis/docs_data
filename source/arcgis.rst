@@ -1,5 +1,3 @@
-.. sectionauthor:: Aleksandr Myrov, Yuliya Grigorenko <grigorenko.j@gmail.com>
-
 How to open a map or a project in ArcGIS Pro
 ===================================================================
 
