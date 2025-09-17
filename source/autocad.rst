@@ -17,12 +17,12 @@
 .. figure:: _static/autocad1.png
    :name: autocad1
    :align: center
-   :width: 16cm
+   :width: 20cm
 
 * Слой добавлен в рабочее пространство AutoCAD
 
 .. figure:: _static/autocad2.png
    :name: autocad2
    :align: center
-   :width: 16cm
+   :width: 20cm
 
