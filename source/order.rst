@@ -41,10 +41,25 @@ You can select your area of interest in one of several ways:
 Select data type
 -------------------
 
-.. figure:: _static/data_type_select_en.png
+If you've chosen a region from the catalog, you'll see the cards of all products available for this region. Select the product you need.
+
+.. figure:: _static/data_type_select_cards_en.png
    :name: 
    :align: center
    :width: 20cm
+
+   Product cards on the region page
+
+The product page opens. It's the same type of page you get if you select a custom area.
+
+To switch between products, use the dropdown menu.
+
+.. figure:: _static/data_type_select_dropdown_en.png
+   :name: 
+   :align: center
+   :width: 20cm
+
+   Выбор продукта
 
 
 Data types you can order:
