@@ -55,11 +55,11 @@ The product page opens. It's the same type of page you get if you select a custo
 To switch between products, use the dropdown menu.
 
 .. figure:: _static/data_type_select_dropdown_en.png
-   :name: 
+   :name: data_type_select_dropdown_pic
    :align: center
    :width: 20cm
 
-   Выбор продукта
+   Selecting product
 
 
 Data types you can order:
