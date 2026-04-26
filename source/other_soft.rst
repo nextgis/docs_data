@@ -5,6 +5,7 @@ Our data in other software
    :maxdepth: 2
 
    connect2ngw
+   tiles2ngw_en
    elevation_qgis
    3d_dem_qgis
    satellite
