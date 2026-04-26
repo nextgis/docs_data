@@ -5,6 +5,7 @@
    :maxdepth: 2
 
    connect2ngw
+   tiles2ngw
    elevation_qgis
    3d_dem_qgis
    satellite
