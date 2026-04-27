@@ -5,7 +5,7 @@ How to upload Tileset to NextGIS Web
 
 * `Order data <https://data.nextgis.com/?next-product=tiles>`_ for your area of interest in PNG format.
 * Go to the `orders <https://data.nextgis.com/en/orders/actual/>`_ page and download the archive when it's complete.
-* `Create your Web GIS <https://docs.nextgis.com/docs_ngcom/source/create_webgis.html>`_ or `sign in to it <https://docs.nextgis.com/docs_ngcom/source/create_webgis.html#how-to-sign-in-to-your-web-gis>`.
+* `Create your Web GIS <https://docs.nextgis.com/docs_ngcom/source/create_webgis.html>`_ or `sign in to it <https://docs.nextgis.com/docs_ngcom/source/create_webgis.html#how-to-sign-in-to-your-web-gis>`_.
 * To add a **Tileset**, select a Tileset in the "Create Resource" block of operations.
 
 .. figure:: _static/ngweb_create_tileset_en.png
