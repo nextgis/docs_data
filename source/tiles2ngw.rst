@@ -5,7 +5,7 @@
 
 * `Закажите данные <https://data.nextgis.com/?next-product=tiles>`_ на интересующую территорию в формате PNG.
 * Дождитесь получения результата, `скачайте <https://data.nextgis.com/ru/orders/actual/>`_ архив с данными.
-* `Создайте <https://docs.nextgis.ru/docs_ngcom/source/create_webgis.html>`_ или `зайдите <https://docs.nextgis.ru/docs_ngcom/source/create_webgis.html#ngcom-webgis-signin>` в свою Веб ГИС.
+* `Создайте <https://docs.nextgis.ru/docs_ngcom/source/create_webgis.html>`_ или `зайдите <https://docs.nextgis.ru/docs_ngcom/source/create_webgis.html#ngcom-webgis-signin>`_ в свою Веб ГИС.
 * Нажмите кнопку **Создать ресурс** и выберите во всплывающем окне тип ресурса **Набор тайлов**.
 
 .. figure:: _static/ngweb_create_tileset_ru.png
