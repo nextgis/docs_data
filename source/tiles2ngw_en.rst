@@ -19,7 +19,7 @@ Next, you need to enter the name of the tileset, which will be displayed in the 
 
 The "Key" field is optional. On the appropriate tabs, you can add a resource description and metadata. Typically, metadata is used to develop third-party applications using APIs.
 
-In the "Tileset" tab, you need to upload a tileset in MBTiles format or a zip archive. Tiles must be in PNG or JPEG format and have a size of 256x256 pixels.
+In the "Tileset" tab, you need to upload a tileset in a zip archive. Tiles must be in PNG or JPEG format and have a size of 256x256 pixels.
 
 .. figure:: _static/create_tileset_upload_en.png
    :name: Tileset_add_en
