@@ -6,7 +6,7 @@
 Файловая структура данных
 ------------------------------
 
-Выгрузка представляет собой ZIP-архив, который нужно распаковать перед использованием. Название архива содержит в себе информацию о дате выгрузки и формате, а также код региона, если он выбран из каталога, или обозначение custom, если область была выбрана вручную.
+Выгрузка, получаемая на `NextGIS Data <https://data.nextgis.com/ru/>`_, представляет собой ZIP-архив, который нужно распаковать перед использованием. Название архива содержит в себе информацию о дате выгрузки и формате, а также код региона, если он выбран из каталога, или обозначение custom, если область была выбрана вручную.
 
 Распакованный архив представляет собой папку, содержащую следующие файлы и подпапки. 
 
@@ -20,17 +20,17 @@
 
 В зависимости от типа данных и формата также может быть:
 
-* Файл проекта QGIS ``data.qgs``, ArcGIS ``data.mxd`` или Mapinfо ``data.wor``. Его можно сразу открыть в соответствующем ПО. Все данные уже добавлены в проект и стилизованы для отображения. 
+* Файл проекта QGIS ``data.qgs``, ArcMap ``data.mxd``, ArcGIS Pro ``data.aprx``  или Mapinfо ``data.wor``. Его можно сразу открыть в соответствующем ПО. Все данные уже добавлены в проект и стилизованы для отображения. 
 
-    * Проекты для QGIS есть у всех продуктов при заказе форматов **Geopackage, Shape, GeoJSON**.
-    * Проекты для для ArcGIS есть у всех продуктов при заказе форматов **Geodatabase, Shape**.
-    * Проект для Mapinfo есть только у продукта base/osm при заказе формата **Mapinfo TAB**.
+   * Проекты для QGIS есть у всех продуктов при заказе форматов **Geopackage, Shape, GeoJSON**.
+   * Проекты для ArcMap и ArcGIS Pro есть у всех продуктов при заказе форматов **Geodatabase, Shape**.
+   * Проект для Mapinfo есть только у продукта base/osm при заказе формата **Mapinfo TAB**.
 
 * Папка с иконками ``svg``. Эта папка включается для данных, использующих векторные маркеры в формате SVG. В стилях слоёв задан относительный путь к папке.
 
 
 
-.. _ngdata_attr:
+.. _ngdata_attr_osm:
 
 Описание атрибутов выгрузок OpenStreetMap
 -------------------------------------------
@@ -40,3 +40,19 @@
 * `Описание атрибутов в виде таблицы <https://docs.google.com/spreadsheets/d/1hW34n58AEQlu9eYsPUe_K2Kj1NZq5FCqlW6iSNSgcNg/edit?usp=sharing>`_
 
 * Оригинальные описания тегов OSM в `вики Openstreetmap <https://wiki.openstreetmap.org/wiki/RU:Map_Features>`_
+
+.. _ngdata_attr_other:
+
+Описание атрибутов других выгрузок
+-----------------------------------
+
+* `Рельеф <https://docs.google.com/spreadsheets/d/1BcuWXMnwpwv0HIao3wAumgpqGsgfAzLc5yaOOCTeYBc/pubhtml>`_
+* `Застройка AI <https://docs.google.com/spreadsheets/d/e/2PACX-1vS9EG8OMqxvcPemo-IMWQi_enrZij710YvKPmk3si5lQS_-sA5wCNj4waXefq0zvoouerktx0wrAlNW/pubhtml>`_
+* `Дороги AI <https://docs.google.com/spreadsheets/d/e/2PACX-1vSx74nB_TPHRYNZTBFSRK5eEi_oxEBFCShT30VRYmk_sisD4qVcwRb-5F_IWiP2x-0pRGFWH8piHnWC/pubhtml>`_
+* `Overture <https://docs.google.com/spreadsheets/d/e/2PACX-1vRJd2RsUimlo1GegSpnJScUdi0kImAJYumnWwbqyb6B2JWMwT9BAyIcIybsqQEBqSllCSNWviGJI9fC/pubhtml?gid=0&single=true>`_
+* `Ландшафты <https://docs.google.com/spreadsheets/d/e/2PACX-1vRFm3v9NE3x62gAJ2fxMg-zn_i4lJHgplLJk6u_EeAl4G5VAWU095yFc7-omUIjjDkhdeAHrzkQ_em1/pubhtml>`_
+* Космосъёмка - трёхканальное цветное изображение в формате RGB, других атрибутов не имеет
+* `Реформа ЖКХ <https://docs.google.com/spreadsheets/d/e/2PACX-1vS32AGvxMh3_Yxuq_duKTIzQFfrJ88iEBciyn8ruhgGxAmyj2bcksH6JfoOs5p13YfZhPXAEqzRa783/pubhtml>`_
+* `ООПТ <https://docs.google.com/spreadsheets/d/e/2PACX-1vQ11744S-kcUBR9gTOGv8ylhTVn2iEQzGA6m9dM0cEaKNEc0-CCm7fZTUPeftUeoms1cCf4uc7e3pjF/pubhtml>`_
+* `Роснедра <https://docs.google.com/spreadsheets/d/e/2PACX-1vTDwgzllu93JNaL60BYHyTrirCqUigFwKYatMosvABIr8rVVHfmvHAaAy0D2gXFOw1Qcl2A2RN4O374/pubhtml>`_
+* `Наследие <https://docs.google.com/spreadsheets/d/e/2PACX-1vRugZizn-rKnihRS6UYLulQUQbOBrUnkJQtiuGTWwwD39SmY6M5oLa94GD1Oww3eRf50_XM6atyP1Xw/pubhtml>`_
