@@ -14,3 +14,4 @@ General issues
    hospital
    print
    label_lang
+   extracts
