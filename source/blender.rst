@@ -1,7 +1,7 @@
 .. _data_blender:
 
-How to upload data to Blender
-=============================
+How to upload data to Blender GIS
+=================================
 
 .. note::
    It is assumed that the Blender GIS add-on is already installed and ready for working with spatial data.
