@@ -1,0 +1,26 @@
+Как обработать данные
+======================
+
+* `Закажите данные <https://data.nextgis.com/ru/>`_ на интересующую Вас территорию, например, в формате GeoPackage.
+* Дождитесь получения результата, `скачайте <https://data.nextgis.com/ru/orders/actual/>`_ и **распакуйте** архив с данными.
+* Перейдите на `NextGIS Toolobx <https://toolbox.nextgis.com>`_.
+* Введите ключевое слово в окно поиска, например "классификация".
+* Выберите нужный инструмент. Загрузите в него данные и запустите. На странице каждого инструмента вы найдёте подробную инструкцию по его использованию.
+
+Если вы не нашли нужный инструмент - `напишите нам об этом <https://docs.google.com/forms/d/e/1FAIpQLSeWGI-pcabwGjk5iNpn4UmfwYi6qGk0rsrSeO44QZOhnbNmYQ/viewform>`_.
+
+Передайте запуск инструментов ИИ
+---------------------------------
+
+Вы можете добавить в настройках своей нейросети MCP-сервер NextGIS Toolbox и решать свои геоинформационные задачи прямо в чате.
+
+1. Подключите https://toolbox-mcp.nextgis.net/mcp в свой клиент. 
+
+Как именно это нужно сделать, зависит от конкретной LLM. Например, в ChatGPT это делается через Профиль -> Настройки -> Developer mode -> Apps -> Create app
+
+2. Пишите запросы как обычно.
+
+Примеры запросов:
+
+1. Compute NDVI for Blanes, Spain for October 2024 using Sentinel-2 imagery. If multiple satellite tiles cover the area, just pick one (scene) arbitrarily. Use MCP.
+2. Нужна высота н.у.м поселка Барвиха по ALOS. Используй MCP
