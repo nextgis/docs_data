@@ -9,18 +9,4 @@
 
 Если вы не нашли нужный инструмент - `напишите нам об этом <https://docs.google.com/forms/d/e/1FAIpQLSeWGI-pcabwGjk5iNpn4UmfwYi6qGk0rsrSeO44QZOhnbNmYQ/viewform>`_.
 
-Передайте запуск инструментов ИИ
----------------------------------
 
-Вы можете добавить в настройках своей нейросети MCP-сервер NextGIS Toolbox и решать свои геоинформационные задачи прямо в чате.
-
-1. Подключите ссылку на MCP в свой клиент. 
-
-Как именно это нужно сделать, зависит от конкретной LLM. Например, в ChatGPT это делается через Профиль -> Настройки -> Developer mode -> Apps -> Create app
-
-2. Пишите запросы как обычно.
-
-Примеры запросов:
-
-1. Compute NDVI for Blanes, Spain for October 2024 using Sentinel-2 imagery. If multiple satellite tiles cover the area, just pick one (scene) arbitrarily. Use MCP.
-2. Нужна высота н.у.м поселка Барвиха по ALOS. Используй MCP

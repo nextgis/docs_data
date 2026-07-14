@@ -8,6 +8,7 @@
    logout
    open_map
    open_layer
+   order_printmap
    osm_search
    coord
    coord_center
