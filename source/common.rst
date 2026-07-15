@@ -7,6 +7,7 @@ General issues
    order
    logout
    open_map
+   order_printmap
    open_layer
    osm_search
    coord
