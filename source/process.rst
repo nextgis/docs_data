@@ -9,4 +9,5 @@
 
 Если вы не нашли нужный инструмент - `напишите нам об этом <https://docs.google.com/forms/d/e/1FAIpQLSeWGI-pcabwGjk5iNpn4UmfwYi6qGk0rsrSeO44QZOhnbNmYQ/viewform>`_.
 
+Вы можете `добавить в настройках своего AI-агента MCP-сервер NextGIS Toolbox <https://docs.nextgis.ru/docs_toolbox/source/mcp.html>`_ и решать свои геоинформационные задачи прямо в чате.
 
