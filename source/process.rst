@@ -10,5 +10,5 @@ How to process your data
 
 If you haven't found the tool you need, `let us know <https://docs.google.com/forms/d/e/1FAIpQLSfStAfamF4ifmj9_FNEFIBISYQaAzbDjxDD_xgfq8iYyFqxGw/viewform>`_.
 
-
+.. hint:: You can `add NextGIS Toolbox MCP server to you AI agent settings <https://docs.nextgis.com/docs_toolbox/source/mcp.html>`_ and solve your geospacial tasks directly in chat.
 
