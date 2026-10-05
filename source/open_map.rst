@@ -7,16 +7,12 @@
 * Дождитесь получения результата, `скачайте <https://data.nextgis.com/ru/orders/actual/>`_ и **распакуйте** архив с данными (извлеките данные из архива).
 * Скачайте и установите `NextGIS QGIS <https://nextgis.ru/nextgis-qgis/>`_, можно также использовать обычный QGIS.
 * Запустите QGIS. 
-* Нажмите «Открыть» и в появившемся окне выберите файл «data.qgs».
+* Перетащите файл проекта «data_redesign.qgs» в окно QGIS.
 
-.. figure:: _static/open_project_qgis_ru.png
+.. figure:: _static/open_project_qgis_drag_ru.png
    :name: open_map1
    :align: center
-   :width: 14cm
+   :width: 20cm
 
 * Проект будет добавлен в QGIS; данные готовы к работе.
 
-.. figure:: _static/project_opened_ru.png
-   :name: open_map2
-   :align: center
-   :width: 20cm

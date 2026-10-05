@@ -6,17 +6,13 @@
 * `Закажите данные <https://data.nextgis.com/ru/>`_ на интересующую территорию в формате GeoPackage (QGIS).
 * Дождитесь получения результата, `скачайте <https://data.nextgis.com/ru/orders/actual/>`_ и **распакуйте** архив с данными.
 * Скачайте и установите `NextGIS QGIS <https://nextgis.ru/nextgis-qgis/>`_ или обычный QGIS.
-* Запустите QGIS. Чтобы открыть полученные данные, нажмите на Меню - Проекты - Открыть проект. Перейдите в папку с заказом - Откройте файл data.qgs.
+* Запустите QGIS.
+* Перетащите файл проекта «data_redesign.qgs» в окно QGIS.
 
 В результате проект будет полностью загружен в QGIS.
 
-.. figure:: _static/open_project_qgis_ru.png
-   :name: file_data_qgs
-   :align: center
-   :width: 14cm
-
-.. figure:: _static/project_opened_ru.png
-   :name: qgis_map
+.. figure:: _static/open_project_qgis_drag_ru.png
+   :name: open_map1
    :align: center
    :width: 20cm
    
@@ -27,48 +23,49 @@
 .. |connect_icon| image:: _static/logo_connect.png
    :width: 6mm
 
-.. figure:: _static/connect_panel_ru_2.png
+.. figure:: _static/ngc_no_connection_ru.png
    :name: connect_panel
    :align: center
    :width: 8cm
 
-* **Настройте** подключение к вашей веб ГИС:
+* **Настройте** подключение к вашей Веб ГИС:
+
+.. admonition:: Ещё нет своей Веб ГИС?
+
+   `Как быстро создать Веб ГИС <https://docs.nextgis.ru/docs_ngcom/source/create_webgis.html>`_
 
 1. Нажмите на кнопку настроек (шестеренка на панели).
 
-2. В открывшейся панели Соединений создайте новое подключение (укажите URL вашей веб ГИС и при необходимости логин/пароль пользователя веб ГИС). 
+2. В открывшейся панели в разделе Соединения создайте **новое** подключение (укажите URL вашей Веб ГИС и при необходимости логин/пароль NextGIS ID). 
 
-.. figure:: _static/create_connection_ru.png
+.. figure:: _static/quick_webmap_connect_ru.png
    :name: create_connection
    :align: center
    :width: 20cm
 
-.. figure:: _static/auth_config_create_ru_2.png
-   :name: auth_config_create_pic
-   :align: center
-   :width: 10cm
 
-3. Нажмите *Сохранить*, затем закройте окно настроек. В панели модуля появятся все ресурсы вашей веб ГИС.
+3. Нажмите **Сохранить**, **ОК**, затем закройте окно настроек. В панели модуля появятся все ресурсы вашей Веб ГИС.
 
  
-.. figure:: _static/qgis_connect_panel_ru.png
+.. figure:: _static/qgis_connect_panel_ru_2.png
    :name: resources_on_panel
-   :align: center
-   :width: 20cm
-
-4. Выберите *группу ресурсов*, в которую вы хотите поместить ваш проект, нажмите на кнопку |button_to_wg| **Добавить в веб ГИС** в панели модуля и *импортируйте* текущий проект.
-
-.. |button_to_wg| image:: _static/button_to_wg.png
-   :width: 6mm
-
-В течение некоторого времени откроется веб-карта с настроенным проектом.
-
-.. figure:: _static/import_project_ru.png
-   :name: import_project
    :align: center
    :width: 8cm
 
-.. figure:: _static/webmap_proj_ru.png
+4. Выберите *группу ресурсов*, в которую вы хотите поместить ваш проект, нажмите на кнопку |button_cloud_upload| **Добавить в Веб ГИС** в панели модуля и выберите **Загрузить всё**.
+
+.. figure:: _static/import_project_ru_2.png
+   :name: import_project
+   :align: center
+   :width: 20cm
+
+Через некоторое время откроется веб-карта с настроенным проектом.
+
+.. figure:: _static/webmap_proj_ru_2.png
    :name:  webmap_proj
    :align: center
    :width: 20cm
+
+.. |button_cloud_upload| image:: _static/button_cloud_upload.png
+   :width: 7mm
+   :alt: облако со стрелкой вверх
