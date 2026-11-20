@@ -15,7 +15,7 @@ You can select your area of interest in one of several ways:
 3. You can also `draw a custom polygon area <https://data.nextgis.com/en/region/custom/base/>`_ on the map or upload a boundary from a file.
 
 .. figure:: _static/data_area_select_en.png
-   :name: 
+   :name: data_area_select_pic
    :align: center
    :width: 20cm
 
@@ -44,7 +44,7 @@ Select data type
 If you've chosen a region from the catalog, you'll see the cards of all products available for this region. Select the product you need.
 
 .. figure:: _static/data_type_select_cards_en.png
-   :name: 
+   :name: data_type_select_cards_pic
    :align: center
    :width: 20cm
 
@@ -82,7 +82,7 @@ Select format
 Select format from a dropdown menu. 
 
 .. figure:: _static/data_format_select_en.png
-   :name: 
+   :name: data_format_select_pic
    :align: center
    :width: 20cm
 
@@ -100,7 +100,7 @@ Data sets contain one or more layers. See the data structure to find what kind o
 Hover over the layer name to see a sample screenshot. Keep in mind that it is only an illustration, data for a particular area may have no features in that layer.
 
 .. figure:: _static/data_osm_layer_ill_en.png
-   :name: 
+   :name: data_osm_layer_ill_pic
    :align: center
    :width: 20cm
 
@@ -108,7 +108,7 @@ Hover over the layer name to see a sample screenshot. Keep in mind that it is on
 For OSM Basemap and Elevation you can choose which layers to order and deselect others.
 
 .. figure:: _static/data_dem_layers_select_en.png
-   :name: 
+   :name: data_dem_layers_select_pic
    :align: center
    :width: 20cm
 
@@ -116,37 +116,60 @@ For Elevation you can also choose contour line step.
 
 
 
-.. _data_order:
+.. _data_cart:
 
-Purchase
-------------------
+Cart and checkout
+-----------------------------------------------
 
-After selecting an area you'll see the price and the order details at the bottom of the page. Click **Order data**.
+After selecting an area you'll see the price and the order details at the bottom of the page. 
 
-.. figure:: _static/data_price_en.png
-   :name: 
+* Click **Add to Cart** if you plan to add more regions or products. 
+* Click **Order** to proceed directly to checkout.
+
+.. figure:: _static/data_add_to_cart_en.png
+   :name: data_add_to_cart_pic
    :align: center
    :width: 20cm
 
+To view the contents of your cart, hover your mouse over the |icon_cart| icon in the upper right corner of the screen.
 
-The email field is mandatory. The result of your order will be available for download on `the Orders page <https://data.nextgis.com/en/orders/actual>`_ – to view it, you need to sign in / create account at `my.nextgis.com <https://data.nextgis.com/login>`_ with email you are using during purchase. If you already have an account on `my.nextgis.com <https://data.nextgis.com/login>`_ at the moment of purchase, we recommend signing in before placing an order.
-
-Check the details of your order. Make sure the format is indicated correctly. Switching between tabs and other actions may cause the page to refresh and reset the default format.
-
-.. figure:: _static/data_order_details_en.png
-   :name: 
+.. figure:: _static/data_tooltip_cart_en.png
+   :name: data_tooltip_cart_pic
    :align: center
-   :width: 10cm
+   :width: 14cm
 
-Enter a discount code if you have one.
+From the pop-up window, you can **View cart** and **Clear cart**.
 
-After making sure that all information is correct press **Purchase data**.
+If you don't have a NextGIS ID account yet, you will be prompted to register once you open the cart page. You can also simply enter your email address and complete account creation later.
 
-If you’re purchasing data on behalf of the organisation, we can issue an invoice addressed to this organisation.
+After registering or logging into an existing account, the "Email address" field will be filled in automatically.
 
-`More on payment methods <https://data.nextgis.com/en/faq/#pay>`_
+.. figure:: _static/data_cart_guest_en.png
+   :name: data_cart_guest_pic
+   :align: center
+   :width: 20cm
 
-Payment is made in euros, if your card has another currency, the conversion is handled by the bank.   
+   Guest cart
+
+Check the details of your order. Make sure the format is indicated correctly. 
+
+Some parameters can be changed directly in the cart:
+
+* change included layers (e.g., in the Basemap);
+* add updates (for Basemap);
+* if you order data as of a specific past month, you can change this date.
+
+To change other parameters, you need to remove the product from the cart and add it again. This will be required for the following changes:
+
+* file formats;
+* contour line step when ordering DEM.
+
+If you have a **promo code**, enter it in the corresponding field. 
+
+The payment is made in euros, if your card has another currency, the conversion is handled by the bank. If you’re purchasing data on behalf of the organisation, we can issue an invoice addressed to this organisation. `More on payment methods <https://data.nextgis.com/en/faq/#pay>`_
+
+After checking all parameters, click **Checkout**. You will be redirected to the payment page. After successful payment, the `orders page <https://data.nextgis.com/en/orders/actual/>`_ will open. Here you can track the status of uploads and download the result.
+
 
 .. _data_donwload:
 
@@ -162,3 +185,5 @@ After signing in click **Orders** in the top right corner. It will open your ord
    :align: center
    :width: 20cm
 
+.. |icon_cart| image:: _static/icon_cart.png
+   :width: 6mm
