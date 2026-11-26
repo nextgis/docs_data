@@ -9,6 +9,7 @@ General issues
    open_map
    order_printmap
    open_layer
+   mergeprojects
    osm_search
    coord
    district
